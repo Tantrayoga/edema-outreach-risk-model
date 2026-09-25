@@ -1,4 +1,4 @@
-# Edema Early-Warning System
+# Edema Outreach Risk Model
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/dashboard-Streamlit-FF4B4B)
