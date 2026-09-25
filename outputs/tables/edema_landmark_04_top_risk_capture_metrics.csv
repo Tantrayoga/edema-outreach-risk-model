@@ -1,0 +1,5 @@
+top_risk_group,patients_flagged,actual_high_risk_in_flagged,precision_high_risk_rate_in_flagged,recall_pct_of_all_high_risk_captured
+top_5pct,53,15,28.3,20.0
+top_10pct,107,26,24.3,34.67
+top_20pct,214,47,21.96,62.67
+top_30pct,321,54,16.82,72.0

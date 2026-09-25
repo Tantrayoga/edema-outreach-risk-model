@@ -1,0 +1,8 @@
+risk_group,patients_flagged,actual_positives_in_flagged,precision_pct,recall_pct,lift_vs_baseline,min_predicted_risk,max_predicted_risk
+top_1pct,12,2,16.67,3.77,3.9,0.6514,0.6891
+top_3pct,37,3,8.11,5.66,1.9,0.5929,0.6891
+top_5pct,62,6,9.68,11.32,2.26,0.5534,0.6891
+top_10pct,124,16,12.9,30.19,3.02,0.4937,0.6891
+top_15pct,186,21,11.29,39.62,2.64,0.4436,0.6891
+top_20pct,248,24,9.68,45.28,2.26,0.3959,0.6891
+top_30pct,372,34,9.14,64.15,2.14,0.3444,0.6891

@@ -1,0 +1,9 @@
+metric,point_estimate,ci_lower_95,ci_upper_95,boot_mean
+top_5pct_precision,0.1613,0.0645,0.2581,0.1514
+top_5pct_lift,3.7736,1.6318,5.5182,3.5377
+top_10pct_precision,0.121,0.0645,0.1774,0.117
+top_10pct_lift,2.8302,1.6279,3.8604,2.7344
+top_20pct_precision,0.0968,0.0644,0.1371,0.0971
+top_20pct_lift,2.2642,1.6071,2.9808,2.2725
+roc_auc,0.7052,0.6254,0.7742,0.7048
+average_precision,0.1233,0.0725,0.2134,0.1311

@@ -1,0 +1,5 @@
+age_group,patients,positives,positive_rate_pct
+90_plus,563,67,11.9
+75_to_89,1698,81,4.77
+under_75,2333,63,2.7
+unknown_age,363,0,0.0

@@ -1,0 +1,41 @@
+
+MODEL PURPOSE
+Rank edema patients by risk of future high-risk trajectory.
+This is an outreach prioritization model, not a hard death-prediction model.
+
+COHORT
+All edema patients, including patients aged 90+.
+
+AGE HANDLING
+Age was NOT used as a model feature.
+PatientBirthYearBin, PatientBirthYearBin_num, and age_group were excluded from training.
+Age group is reported only descriptively.
+
+TARGET
+Future high-risk edema trajectory:
+patient eventually marked deceased AND later had long/complex edema-related or utilization trajectory.
+
+PREDICTION POINT
+60 days after first edema diagnosis.
+
+MAIN EVALUATION
+Top-k precision, recall, and lift over baseline.
+
+BASELINE
+Baseline high-risk rate in the test set: 6.99%.
+
+INTERPRETATION
+If top 10% precision is substantially higher than baseline, the model can help prioritize outreach.
+For example, if baseline is 7% and top 10% precision is 22%, then the top 10% group is about 3.1x enriched over random selection.
+
+LIMITATIONS
+- Not a clinical diagnosis tool.
+- VitalStatus does not provide exact death timing.
+- Age is excluded from the model, but older patients may still have different encounter patterns.
+- External validation is needed before deployment.
+
+RECOMMENDED USE
+Use predicted_risk to create outreach tiers:
+- Top 5%: urgent outreach
+- Top 10%: high-priority outreach
+- Top 20%: monitor / secondary outreach

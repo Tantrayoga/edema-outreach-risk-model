@@ -1,0 +1,13 @@
+model,top_risk_group,patients_flagged,actual_positive_in_flagged,precision_positive_rate_in_flagged,recall_pct_of_all_positive_captured
+all_patients_no_age_feature,top_5pct,53,15,28.3,20.0
+all_patients_no_age_feature,top_10pct,107,24,22.43,32.0
+all_patients_no_age_feature,top_20pct,214,39,18.22,52.0
+all_patients_no_age_feature,top_30pct,321,44,13.71,58.67
+under_90_no_age_feature,top_5pct,46,11,23.91,23.91
+under_90_no_age_feature,top_10pct,92,14,15.22,30.43
+under_90_no_age_feature,top_20pct,184,21,11.41,45.65
+under_90_no_age_feature,top_30pct,277,29,10.47,63.04
+age_90_plus_no_age_feature,top_5pct,7,3,42.86,10.0
+age_90_plus_no_age_feature,top_10pct,14,4,28.57,13.33
+age_90_plus_no_age_feature,top_20pct,29,8,27.59,26.67
+age_90_plus_no_age_feature,top_30pct,44,10,22.73,33.33

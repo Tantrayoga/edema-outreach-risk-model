@@ -1,0 +1,5 @@
+model,top_risk_group,patients_flagged,actual_positive_in_flagged,precision_positive_rate_in_flagged,recall_pct_of_all_positive_captured
+under_90_no_age_feature,top_5pct,46,11,23.91,23.91
+under_90_no_age_feature,top_10pct,92,14,15.22,30.43
+under_90_no_age_feature,top_20pct,184,21,11.41,45.65
+under_90_no_age_feature,top_30pct,277,29,10.47,63.04

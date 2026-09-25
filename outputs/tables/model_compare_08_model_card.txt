@@ -1,0 +1,45 @@
+
+MODEL COMPARISON SUMMARY
+
+Purpose:
+Compare multiple models for ranking edema patients by risk of future high-risk trajectory.
+
+Target:
+Future high-risk edema trajectory.
+
+Cohort:
+All edema patients in the landmark table.
+
+Age handling:
+Age and birth-year features are excluded from model training.
+Age group is only used for reporting.
+
+Models tested:
+logistic_regression, random_forest, extra_trees, gradient_boosting, hist_gradient_boosting
+
+Selection criterion:
+Best model is selected by top 10% precision, with Average Precision as tie-breaker.
+
+Best model:
+gradient_boosting
+
+Baseline high-risk rate in test set:
+6.99%
+
+Best model top 10% precision:
+21.50%
+
+Interpretation:
+If top 10% precision is much higher than baseline, the model improves outreach prioritization.
+For example, if baseline is 7% and top 10% precision is 22%, the model-selected top 10% group is about 3.1x enriched over random selection.
+
+Recommended framing:
+This is a risk-ranking model, not a hard classifier.
+The operational question is:
+If SVH can contact only the highest-risk 5% or 10% of edema patients, which model creates the most enriched outreach list?
+
+Limitations:
+- Not a clinical diagnosis tool.
+- VitalStatus does not provide exact death timing.
+- External validation is needed.
+- False positives may be acceptable if the intervention is low-risk outreach or follow-up.

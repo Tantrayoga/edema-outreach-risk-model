@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+plotly
+pyarrow
+duckdb
+scikit-learn
+joblib
+matplotlib
+geopandas
+shapely
+pyogrio
+pyproj
+fiona
+xgboost

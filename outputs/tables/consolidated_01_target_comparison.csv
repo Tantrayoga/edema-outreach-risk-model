@@ -1,0 +1,9 @@
+metric,value
+n_patients,8364.0
+n_deceased,477.0
+n_positive_loose,396.0
+pct_positive_loose,4.73
+n_positive_strict,261.0
+pct_positive_strict,3.12
+deceased_captured_by_loose_pct,83.02
+deceased_captured_by_strict_pct,54.72

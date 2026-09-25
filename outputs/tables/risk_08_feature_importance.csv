@@ -1,0 +1,463 @@
+feature,importance
+MyChartStatus_Inactivated,0.24880089974284123
+MyChartStatus_Activated,0.24136162178981815
+pre_missing_diagnosis_rows,0.032248752506212515
+pre_num_unique_encounters,0.027638899488405606
+MaritalStatus_Single,0.02661680403053112
+pre_num_encounters,0.026597460239911726
+MaritalStatus_Widowed,0.025908588326634955
+pre_max_los_hours,0.023536539419536928
+MyChartStatus_Pending Activation,0.021625278981653406
+pre_outpatient_face_to_face_visits,0.020610624440775417
+PatientBirthYearBin_1935,0.019849875986932154
+PatientBirthYearBin_1930,0.017551789332060506
+pre_num_departments,0.013692620428507517
+pre_inpatient_admissions,0.012793168684158723
+pre_num_distinct_diagnoses,0.0124196083075929
+pre_num_diagnosis_groups,0.012345381782148775
+pre_hospital_admissions,0.011989615002717986
+PatientBirthYearBin_1940,0.011184965537591999
+pre_num_attending_providers,0.009950669412543228
+PatientBirthYearBin_1945,0.009191630318187304
+pre_encounters_per_observed_day,0.009086236946553592
+SmokingStatus_Former,0.008602136419049859
+pre_observed_days,0.007914959974566347
+pre_ed_visits,0.007803228126173754
+pre_avg_los_hours,0.0073864166520834
+PatientBirthYearBin_2005,0.005102101423419542
+pre_type_hospital_like,0.00488898640035166
+PatientBirthYearBin_2010,0.00465791907297252
+PatientBirthYearBin_1925,0.004056796002035845
+PatientBirthYearBin_2000,0.0037061080614632542
+OmbRace_White,0.0036648262870988234
+PatientBirthYearBin_2020,0.0036124092744529396
+pre_num_department_types,0.003565841215752493
+PatientBirthYearBin_2015,0.0035278378527333464
+PatientBirthYearBin_1990,0.003525004469737553
+pre_last_department_specialty_Urgent Care,0.0033028793761981532
+pre_last_encounter_type_Lab Requisition,0.0032262656253250893
+PatientBirthYearBin_1985,0.003017459417764441
+MaritalStatus_Married,0.002864874341081608
+pre_max_sd_domains_screened,0.0028607497453033673
+PatientBirthYearBin_1950,0.0028559672685565434
+SmokingStatus_Never,0.0027756382695325686
+FirstRace_White or Caucasian,0.002751702993741878
+pre_type_emergency_like,0.0027134589548498413
+SmokingStatus_Never Assessed,0.0025657556727015423
+PatientBirthYearBin_1995,0.0025569421793626887
+PatientBirthYearBin_1980,0.0025195033234868694
+pre_last_encounter_type_Well Child,0.0023986185114729633
+pre_hospital_outpatient_visits,0.0023373031582414844
+pre_total_sd_domain_screens,0.0022150863695706573
+pre_last_diagnosis_group_Chronic kidney disease,0.0020708910172745278
+OmbEthnicity_Not Hispanic or Latino,0.0020143591906252663
+pre_avg_sd_domains_screened,0.0018487845435623798
+PatientBirthYearBin_1975,0.0018232403748599598
+pre_last_department_specialty_Pediatrics,0.0017084633862786435
+OmbEthnicity_Hispanic or Latino,0.0016276374194210599
+pre_encounters_with_sd_screening,0.0015290006053817402
+pre_type_surgery_like,0.001457306843267182
+SmokingStatus_Every Day,0.0011973036708651402
+pre_last_department_type_*Unknown,0.0011880199483314043
+pre_last_department_specialty_Lab,0.0011278334192162606
+MyChartStatus_*Unspecified,0.0010817374851216826
+pre_last_encounter_type_Appointment,0.0010772513397800186
+MyChartStatus_Non Standard MyChart Status,0.0010612308625745832
+pre_last_diagnosis_group_infrequent_sklearn,0.0010035737017033473
+pre_last_department_specialty_Cardiology,0.0009764172701178794
+PatientBirthYearBin_1960,0.000965983981492507
+OmbEthnicity_Unknown,0.000964362263384564
+pre_last_department_type_Normal,0.0009252953053361735
+PatientBirthYearBin_1970,0.0008948288228044219
+"FirstRace_Hispanic, Latino, or Spanish",0.0008664282952804275
+pre_last_encounter_type_Office Visit,0.0008414085740620444
+OmbRace_Some Other Race,0.0008296333521254438
+pre_last_department_specialty_Nephrology,0.0007740069420342878
+SmokingStatus_*Unknown,0.0007680998703037892
+PatientBirthYearBin_1955,0.0007680091999994742
+SexAssignedAtBirth_*Unspecified,0.0007555601665324718
+PatientBirthYearBin_1965,0.0007364276630489462
+SexAssignedAtBirth_Female,0.000696489613524614
+OmbRace_Unknown,0.0006911455739035651
+"pre_last_diagnosis_group_Encounter for general examination without complaint, suspected or reported diagnosis",0.0006708593073781163
+MaritalStatus_Divorced,0.0006673675998058696
+pre_last_diagnosis_group_Atrial fibrillation and flutter,0.0006204303532874393
+pre_last_department_type_HOD,0.0005972608462070144
+pre_last_encounter_type_Hospital Encounter,0.000595892657676485
+FirstRace_NA,0.0005933207574241541
+pre_last_encounter_type_Imaging,0.0005699803030119769
+MaritalStatus_*Unspecified,0.0005444441925611848
+pre_last_department_specialty_Bariatrics,0.00054111620105033
+pre_last_diagnosis_group_Encounter for screening for malignant neoplasms,0.0005379315158602222
+pre_last_diagnosis_group_Acute pharyngitis,0.0005054023956158011
+pre_last_department_specialty_Radiology,0.00048569436519676286
+SexAssignedAtBirth_Male,0.0004290930060969889
+pre_observation_visits,0.00041620872310893416
+pre_last_encounter_type_Lab Visit,0.0004036362913993839
+PatientBirthYearBin_infrequent_sklearn,0.000399162029672053
+pre_last_encounter_type_Patient Outreach,0.00038522499518003385
+pre_last_diagnosis_group_Essential,0.0003787706910534052
+pre_last_department_specialty_Family Medicine,0.0003725750253902472
+FirstRace_Black or African American,0.0003506806114192119
+pre_last_department_specialty_Internal Medicine,0.00031435727420524003
+MyChartStatus_Patient Declined,0.0003044761212278945
+pre_last_department_type_ED,0.00028578941306127295
+SmokingStatus_Passive Smoke Exposure - Never Smoker,0.0002701058969513701
+pre_last_department_specialty_Emergency Medicine,0.00025768066355418744
+pre_last_department_specialty_Hematology and Oncology,0.00023441781707135318
+OmbRace_Two or More Races,0.00022922067099559926
+OmbRace_Black or African American,0.00022526335506318777
+pre_last_department_specialty_Care Management,0.00022255968563678457
+pre_last_department_specialty_Primary Care,0.00022202556655179014
+MaritalStatus_Unknown,0.0002074460812209596
+pre_last_diagnosis_group_Type 2 diabetes mellitus,0.00018685373951205013
+pre_last_diagnosis_group_Other disorders of urinary system,0.00018518901361008378
+pre_last_diagnosis_group_Disorders of lipoprotein metabolism and other lipidemias,0.00017315526797419557
+pre_last_department_specialty_*Unspecified,0.0001604460344713034
+pre_last_diagnosis_group_Acute upper respiratory infections of multiple and unspecified sites,0.00015334396028729563
+MaritalStatus_Significant Other,0.00013705553056255314
+pre_last_department_specialty_Gastroenterology,0.00013389850321212556
+pre_last_department_specialty_Dermatology,0.00012306210167252395
+pre_last_department_specialty_Occupational Therapy,0.00011252103774835986
+"pre_last_diagnosis_group_Other joint disorder, not elsewhere classified",0.00010855483364112055
+pre_last_diagnosis_group_Heart failure,0.00010825639214920077
+pre_last_department_specialty_Physical Therapy,0.0001045803415219453
+pre_last_encounter_type_Initial consult,0.0001007845747630989
+pre_last_diagnosis_group_Dorsalgia,9.966355163669677e-05
+FirstRace_American Indian or Alaska Native,9.845831312248837e-05
+OmbRace_American Indian or Alaska Native,9.653912645898902e-05
+pre_last_department_specialty_Obstetrics and Gynecology,9.620307643201903e-05
+pre_last_encounter_type_Procedure visit,9.370731577019987e-05
+SmokingStatus_Some Days,9.174444667155824e-05
+pre_last_diagnosis_group_Chronic ischemic heart disease,8.941450758968552e-05
+pre_last_diagnosis_group_Other and unspecified metabolic disorders,8.901253273071601e-05
+pre_last_department_specialty_Orthopedic Surgery,8.222573079048251e-05
+FirstRace_Other,7.865727327487486e-05
+pre_last_encounter_type_Treatment,7.071888590623971e-05
+pre_last_department_specialty_Endocrinology,6.949275511276418e-05
+OmbEthnicity_Asked but No Answer,6.863630721866091e-05
+pre_last_diagnosis_group_Body mass index,6.504207355876404e-05
+pre_last_encounter_type_Telemedicine,6.49672049883716e-05
+pre_last_encounter_type_Infusion,5.762809498167008e-05
+pre_last_diagnosis_group_Malignant neoplasm of prostate,5.2634141998569876e-05
+pre_last_department_type_L&D,4.6379866780921877e-05
+pre_last_diagnosis_group_Abnormalities of breathing,4.316786047705084e-05
+pre_last_department_specialty_Neurology,4.14169076248978e-05
+pre_last_diagnosis_group_Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,4.01482247105525e-05
+pre_last_diagnosis_group_Cellulitis and acute lymphangitis,4.011799707246993e-05
+pre_last_encounter_type_Follow-Up,3.8592471495448105e-05
+pre_last_diagnosis_group_Encounter for administrative examination,3.8573897555289815e-05
+pre_last_diagnosis_group_Other anemias,3.7914364933554536e-05
+pre_last_department_specialty_Pulmonology,3.579782849309971e-05
+pre_last_diagnosis_group_Long term,3.4172450278215224e-05
+pre_last_diagnosis_group_Suppurative and unspecified otitis media,3.2966744003520904e-05
+pre_last_department_specialty_Ophthalmology,3.239378890080055e-05
+pre_last_diagnosis_group_Abnormalities of heart beat,3.200110906296154e-05
+MaritalStatus_Life Partner,3.0609470882204706e-05
+pre_last_department_specialty_Allergy,2.989727364852559e-05
+pre_last_diagnosis_group_zzdonotuse errenc,2.951829217559503e-05
+"pre_last_diagnosis_group_Major depressive disorder, single episode",2.8547111466625172e-05
+pre_last_diagnosis_group_Other hypothyroidism,2.850340949483301e-05
+pre_last_diagnosis_group_Malaise and fatigue,2.81192665714982e-05
+pre_last_diagnosis_group_Presence of other functional implants,2.7609376518849267e-05
+"pre_last_diagnosis_group_Other and unspecified soft tissue disorders, not elsewhere classified",2.6816465258594186e-05
+OmbRace_Asian,2.6015135419349194e-05
+pre_last_diagnosis_group_Neoplasm of uncertain behavior of other and unspecified sites,2.5552188629739587e-05
+"pre_last_diagnosis_group_Persons encountering health services for specific procedures and treatment, not carried out",2.3450258487371523e-05
+pre_last_diagnosis_group_Abdominal and pelvic pain,2.3349245984984118e-05
+"pre_last_diagnosis_group_Major depressive disorder, recurrent",2.3055761478663692e-05
+pre_last_department_specialty_Infusion Therapy,2.298397540247136e-05
+pre_last_department_specialty_Urology,2.2785847501504467e-05
+pre_last_diagnosis_group_Cystitis,2.2561676325649432e-05
+pre_last_diagnosis_group_Disturbances of skin sensation,2.2286805991596008e-05
+pre_last_diagnosis_group_Polyuria,2.1694638500858528e-05
+pre_last_diagnosis_group_Acute sinusitis,2.016790281066198e-05
+pre_last_diagnosis_group_Personal history of other diseases and conditions,2.009395669436332e-05
+pre_last_diagnosis_group_Pain in throat and chest,1.9754787499072592e-05
+pre_last_diagnosis_group_Parkinson's disease,1.9435086777202502e-05
+pre_last_diagnosis_group_Cough,1.8912185875757387e-05
+MaritalStatus_Legally Separated,1.845039152031123e-05
+pre_last_diagnosis_group_Hemorrhage from respiratory passages,1.8148739870856716e-05
+pre_last_diagnosis_group_Other and unspecified malignant neoplasm of skin,1.785761144836669e-05
+pre_last_diagnosis_group_Abnormal serum enzyme levels,1.747856053173421e-05
+pre_last_diagnosis_group_Other postprocedural states,1.7406016238263706e-05
+pre_last_diagnosis_group_Encounter for screening for infectious and parasitic diseases,1.6777288857119155e-05
+pre_last_diagnosis_group_Other symptoms and signs involving cognitive functions and awareness,1.6567082994181957e-05
+pre_last_diagnosis_group_Other peripheral vascular diseases,1.641729472517184e-05
+pre_last_diagnosis_group_Menopausal and other perimenopausal disorders,1.5269135566172067e-05
+pre_last_diagnosis_group_Osteoarthritis of knee,1.375843027248787e-05
+pre_last_diagnosis_group_Other anxiety disorders,1.3457388557251131e-05
+pre_last_diagnosis_group_Proteinuria,1.3265342678376038e-05
+FirstRace_Asian,1.3035469832516223e-05
+pre_last_diagnosis_group_Encounter for other postprocedural aftercare,1.2360313530366237e-05
+pre_last_department_specialty_infrequent_sklearn,1.195493503844111e-05
+pre_last_diagnosis_group_Abnormal tumor markers,1.1651651355342595e-05
+SmokingStatus_Unknown,1.1572785699931955e-05
+pre_last_diagnosis_group_Persistent mood,1.1392874950792184e-05
+"pre_last_diagnosis_group_Other disorders of fluid, electrolyte and acid-base balance",1.1257086648763916e-05
+pre_last_diagnosis_group_Pain associated with micturition,1.1229220608315909e-05
+pre_last_diagnosis_group_Symptoms and signs involving emotional state,1.0760811204090744e-05
+pre_last_diagnosis_group_Other and unspecified osteoarthritis,1.068916413947192e-05
+pre_last_diagnosis_group_Liveborn infants according to place of birth and type of delivery,1.06219910349438e-05
+pre_last_department_specialty_Wound Care,1.0593428304029802e-05
+pre_last_department_specialty_General Surgery,9.788085581797691e-06
+pre_last_diagnosis_group_Personal history of certain other diseases,9.75409216405305e-06
+pre_last_diagnosis_group_Encounter for screening for other diseases and disorders,9.5371104344138e-06
+pre_last_diagnosis_group_Other functional intestinal disorders,9.242624262670795e-06
+pre_last_diagnosis_group_Fracture at wrist and hand level,9.014040109795304e-06
+pre_last_diagnosis_group_Gastro-esophageal reflux disease,8.996843654627593e-06
+pre_last_department_specialty_Foot & Ankle,8.974216202649983e-06
+pre_last_diagnosis_group_Aphagia and dysphagia,8.870536238583853e-06
+pre_last_diagnosis_group_Abnormal results of function studies,8.855912124094774e-06
+pre_last_diagnosis_group_Chronic diseases of tonsils and adenoids,8.685542770882476e-06
+pre_last_diagnosis_group_Presence of cardiac and vascular implants and grafts,8.39978169247514e-06
+pre_last_diagnosis_group_Other and unspecified disorders of eustachian tube,8.17981027314691e-06
+"pre_last_diagnosis_group_Pneumonia, unspecified organism",8.118283838347371e-06
+pre_last_diagnosis_group_Vitamin D deficiency,8.00746867978669e-06
+pre_last_department_specialty_Obstetrics,7.939678397064254e-06
+pre_last_diagnosis_group_Epilepsy and recurrent seizures,7.903477145221617e-06
+pre_last_encounter_type_Surgery,7.775692520187274e-06
+pre_last_diagnosis_group_Overweight and obesity,7.709535427710073e-06
+pre_last_diagnosis_group_Vasomotor and allergic rhinitis,7.312129031188607e-06
+pre_last_diagnosis_group_Fracture of femur,7.223648811190145e-06
+pre_last_diagnosis_group_Injury of unspecified body region,7.178669869438445e-06
+"pre_last_diagnosis_group_Other and unspecified injuries of abdomen, lower back, pelvis and external genitals",6.976449353378308e-06
+FirstRace_Native Hawaiian or other Pacific Islander,6.915707007073265e-06
+pre_last_diagnosis_group_Alcohol related disorders,6.726727201092873e-06
+pre_last_department_specialty_Neurosurgery,6.687698693402837e-06
+"pre_last_diagnosis_group_Bronchitis, not specified as acute or chronic",6.535566665899955e-06
+pre_last_diagnosis_group_Psoriasis,6.0860731581092455e-06
+pre_last_diagnosis_group_Other noninflammatory disorders of vagina,5.59234341811492e-06
+pre_last_diagnosis_group_Migraine,5.530227108778732e-06
+pre_last_diagnosis_group_Attention-deficit hyperactivity disorders,5.4295716563787865e-06
+pre_last_diagnosis_group_Sleep disorders,5.3897848216045e-06
+pre_last_diagnosis_group_Polyosteoarthritis,5.366399206408736e-06
+pre_last_diagnosis_group_Open wound of head,5.090404143749228e-06
+pre_last_diagnosis_group_Fibroblastic disorders,5.0710022342816695e-06
+pre_last_diagnosis_group_Bitten or stung by nonvenomous insect and other nonvenomous arthropods,4.7667015760554606e-06
+pre_last_department_specialty_Rheumatology,4.757143051493811e-06
+pre_last_diagnosis_group_Syncope and collapse,4.744664539588767e-06
+pre_last_diagnosis_group_Benign prostatic hyperplasia,4.732718587286331e-06
+pre_last_encounter_type_Pre-Endoscopy Assessment,4.548602402172606e-06
+pre_last_diagnosis_group_Conjunctivitis,4.493002608219414e-06
+pre_last_diagnosis_group_Rash and other nonspecific skin eruption,4.390309352842847e-06
+pre_last_diagnosis_group_Other diseases of intestine,4.315540162161483e-06
+pre_last_diagnosis_group_Cardiac murmurs and other cardiac sounds,4.31484481406796e-06
+pre_last_diagnosis_group_Other disorders of veins,4.274605131427453e-06
+"pre_last_diagnosis_group_Encounter for other special examination without complaint, suspected or reported diagnosis",4.196164191772357e-06
+pre_last_diagnosis_group_Fever of other and unknown origin,3.909412723083524e-06
+FirstRace_Patient Refused,3.6869275982895427e-06
+pre_last_diagnosis_group_Personal history of malignant neoplasm,3.6588524680128056e-06
+pre_last_diagnosis_group_Follicular cysts of skin and subcutaneous tissue,3.538148786870226e-06
+"pre_last_diagnosis_group_Open wound of wrist, hand and fingers",3.2471769216813656e-06
+pre_last_diagnosis_group_Other rheumatoid arthritis,3.184620160686513e-06
+pre_last_diagnosis_group_Eating disorders,3.1129569386691848e-06
+SmokingStatus_infrequent_sklearn,3.0880125779095907e-06
+pre_last_diagnosis_group_Osteoporosis without current pathological fracture,2.990347600081007e-06
+pre_last_diagnosis_group_Other nontoxic goiter,2.9690671408417114e-06
+pre_last_diagnosis_group_Fracture of forearm,2.9371232272467253e-06
+pre_last_diagnosis_group_Hematuria,2.879727242583738e-06
+pre_last_diagnosis_group_Abnormal findings on diagnostic imaging of lung,2.7338151085579615e-06
+pre_last_diagnosis_group_Asthma,2.6427868071836397e-06
+pre_last_diagnosis_group_Nonrheumatic aortic valve disorders,2.590800554240192e-06
+OmbRace_Asked but No Answer,2.4107076179695326e-06
+pre_last_encounter_type_Anti-coag visit,2.3086122386402023e-06
+pre_last_diagnosis_group_COVID-19,2.219299580501341e-06
+pre_last_diagnosis_group_Acute bronchiolitis,2.014708219461921e-06
+"pre_last_diagnosis_group_Personal risk factors, not elsewhere classified",1.9535761696719534e-06
+pre_last_diagnosis_group_Nail disorders,1.8761909925637458e-06
+"pre_last_diagnosis_group_Convulsions, not elsewhere classified",1.63604583795336e-06
+pre_last_diagnosis_group_Other cardiac arrhythmias,1.628596712469179e-06
+pre_last_diagnosis_group_Melanocytic nevi,1.4475801717309677e-06
+pre_last_department_specialty_Pain Medicine,1.3205825743674819e-06
+pre_last_diagnosis_group_Nonsuppurative otitis media,1.0423245347004918e-06
+pre_last_department_type_OR,5.662718642970055e-07
+pre_last_diagnosis_group_Nausea and vomiting,4.5521923204455863e-07
+pre_last_diagnosis_group_Skin changes due to chronic exposure to nonionizing radiation,4.1757566735619225e-07
+pre_last_diagnosis_group_Viral infection of unspecified site,2.2017397295258503e-07
+pre_last_diagnosis_group_Encounter for contraceptive management,1.0381981365837573e-07
+pre_last_department_specialty_Cardiac Rehabilitation,7.161704823484269e-08
+pre_last_diagnosis_group_Type 1 diabetes mellitus,2.2315274393779893e-08
+pre_last_diagnosis_group_Urticaria,2.791985774993833e-17
+pre_last_diagnosis_group_Paroxysmal tachycardia,2.481174603416651e-17
+pre_last_diagnosis_group_Contact with and,1.2783052752740751e-17
+"pre_last_diagnosis_group_Cutaneous abscess, furuncle and carbuncle",4.594086692367672e-18
+pre_last_diagnosis_group_Otitis externa,2.7538489788998315e-18
+pre_last_diagnosis_group_Rheumatoid arthritis with rheumatoid factor,3.536152330365471e-21
+pre_last_diagnosis_group_Purpura and other hemorrhagic conditions,0.0
+pre_last_diagnosis_group_Shoulder lesions,0.0
+MyChartStatus_infrequent_sklearn,0.0
+MaritalStatus_Other,0.0
+pre_last_department_specialty_Plastic Surgery,0.0
+pre_last_department_specialty_Physical Medicine and Rehabilitation,0.0
+pre_last_diagnosis_group_Seborrheic keratosis,0.0
+pre_last_department_specialty_Infectious Diseases,0.0
+pre_last_diagnosis_group_Problems related to lifestyle,0.0
+"pre_last_diagnosis_group_Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",0.0
+pre_last_department_specialty_Respiratory Therapy,0.0
+pre_last_diagnosis_group_Asymptomatic human immunodeficiency virus,0.0
+pre_last_diagnosis_group_Persons encountering health services in other circumstances,0.0
+pre_last_diagnosis_group_Atopic dermatitis,0.0
+"pre_last_diagnosis_group_Persons encountering health services for other counseling and medical advice, not elsewhere classified",0.0
+"pre_last_diagnosis_group_Soft tissue disorders related to use, overuse and pressure",0.0
+pre_last_department_specialty_Speech Therapy,0.0
+SmokingStatus_Light Smoker,0.0
+SexAssignedAtBirth_infrequent_sklearn,0.0
+"pre_last_diagnosis_group_Pain, not elsewhere classified",0.0
+pre_last_diagnosis_group_Bipolar disorder,0.0
+pre_last_department_specialty_Sleep Medicine,0.0
+pre_last_diagnosis_group_Thyroiditis,0.0
+pre_last_diagnosis_group_Spondylosis,0.0
+"pre_last_diagnosis_group_Acquired absence of organs, not elsewhere classified",0.0
+pre_last_diagnosis_group_Pain and other conditions associated with female genital organs and menstrual cycle,0.0
+pre_last_diagnosis_group_Zoster,0.0
+"pre_last_diagnosis_group_Adverse effects, not elsewhere classified",0.0
+pre_last_diagnosis_group_Acute tonsillitis,0.0
+pre_last_diagnosis_group_Acute obstructive laryngitis,0.0
+pre_last_diagnosis_group_Acute bronchitis,0.0
+pre_last_diagnosis_group_Acquired deformities of fingers and toes,0.0
+pre_last_department_type_infrequent_sklearn,0.0
+pre_last_diagnosis_group_Acne,0.0
+"pre_last_diagnosis_group_Superficial injury of ankle, foot and toes",0.0
+"pre_last_diagnosis_group_Absent, scanty and rare menstruation",0.0
+OmbRace_Native Hawaiian or Other Pacific Islander,0.0
+pre_last_department_specialty_Maternal and Fetal Medicine,0.0
+pre_last_diagnosis_group_Abnormal involuntary movements,0.0
+pre_last_diagnosis_group_Abnormal findings on diagnostic imaging of other body structures,0.0
+pre_last_diagnosis_group_Abnormal findings in specimens from female genital organs,0.0
+pre_last_encounter_type_Routine Prenatal,0.0
+"pre_last_diagnosis_group_Abnormal blood-pressure reading, without diagnosis",0.0
+pre_last_diagnosis_group_Weeks of gestation,0.0
+pre_last_diagnosis_group_Viral warts,0.0
+pre_last_diagnosis_group_Viral and other specified intestinal infections,0.0
+FirstRace_infrequent_sklearn,0.0
+pre_last_diagnosis_group_Superficial injury of head,0.0
+pre_last_diagnosis_group_Superficial injury of knee and lower leg,0.0
+"pre_last_diagnosis_group_Superficial injury of wrist, hand and fingers",0.0
+pre_last_diagnosis_group_Aortic aneurysm and dissection,0.0
+pre_last_diagnosis_group_Symptoms and signs concerning food and fluid intake,0.0
+pre_last_diagnosis_group_Synovitis and tenosynovitis,0.0
+FirstRace_Unknown,0.0
+pre_last_diagnosis_group_Testicular dysfunction,0.0
+pre_last_diagnosis_group_Abnormal and inconclusive findings on diagnostic imaging of breast,0.0
+pre_last_diagnosis_group_Thyrotoxicosis,0.0
+pre_last_diagnosis_group_Toxic effect of contact with venomous animals and plants,0.0
+pre_last_diagnosis_group_Transplanted organ and tissue status,0.0
+pre_last_diagnosis_group_Allergic contact dermatitis,0.0
+pre_last_diagnosis_group_Ulcerative colitis,0.0
+pre_last_diagnosis_group_Unspecified acute lower respiratory infection,0.0
+pre_last_diagnosis_group_Unspecified contact dermatitis,0.0
+pre_last_diagnosis_group_Unspecified lump in breast,0.0
+pre_last_diagnosis_group_Elevated blood glucose level,0.0
+pre_last_diagnosis_group_Other headache syndromes,0.0
+pre_last_diagnosis_group_Ovarian dysfunction,0.0
+"pre_last_diagnosis_group_Localized swelling, mass and lump of skin and subcutaneous tissue",0.0
+pre_last_diagnosis_group_Hordeolum and chalazion,0.0
+pre_last_diagnosis_group_Hypofunction and other disorders of the pituitary gland,0.0
+pre_last_diagnosis_group_Impetigo,0.0
+pre_last_diagnosis_group_Influenza due to other identified influenza virus,0.0
+pre_last_diagnosis_group_Influenza due to unidentified influenza virus,0.0
+pre_last_diagnosis_group_Injury of eye and orbit,0.0
+"pre_last_diagnosis_group_Injury of muscle, fascia and tendon at shoulder and upper arm level",0.0
+pre_last_diagnosis_group_Intracranial injury,0.0
+pre_last_diagnosis_group_Iron deficiency anemia,0.0
+pre_last_diagnosis_group_Irritable bowel syndrome,0.0
+pre_last_diagnosis_group_Lack of expected normal physiological development in childhood and adults,0.0
+pre_last_diagnosis_group_Deficiency of other nutrient elements,0.0
+pre_last_diagnosis_group_Dermatophytosis,0.0
+pre_last_diagnosis_group_Crohn's disease,0.0
+pre_last_diagnosis_group_Malignant neoplasm of breast,0.0
+pre_last_diagnosis_group_Malignant neoplasm of bronchus and lung,0.0
+pre_last_diagnosis_group_Contact with dog,0.0
+pre_last_diagnosis_group_Malignant neoplasm of thyroid gland,0.0
+pre_last_diagnosis_group_Maternal care for other fetal problems,0.0
+pre_last_diagnosis_group_Mononeuropathies of upper limb,0.0
+"pre_last_diagnosis_group_Non-pressure chronic ulcer of lower limb, not elsewhere classified",0.0
+pre_last_diagnosis_group_Nonrheumatic mitral valve disorders,0.0
+"pre_last_diagnosis_group_Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",0.0
+"pre_last_diagnosis_group_Open wound of ankle, foot and toes",0.0
+pre_last_diagnosis_group_Hemorrhoids and perianal venous thrombosis,0.0
+pre_last_diagnosis_group_Diseases of pulp and periapical tissues,0.0
+pre_last_diagnosis_group_Complications and ill-defined descriptions of heart disease,0.0
+"pre_last_diagnosis_group_Enthesopathies, lower limb, excluding foot",0.0
+pre_last_diagnosis_group_Encounter for antenatal screening of mother,0.0
+pre_last_diagnosis_group_Dizziness and giddiness,0.0
+pre_last_diagnosis_group_Encounter for immunization,0.0
+pre_last_diagnosis_group_Encounter for maternal postpartum care and examination,0.0
+pre_last_diagnosis_group_Encounter for other aftercare and medical care,0.0
+pre_last_diagnosis_group_Diverticular disease of intestine,0.0
+pre_last_diagnosis_group_Encounter for procreative management,0.0
+pre_last_diagnosis_group_Disorders of mineral metabolism,0.0
+pre_last_diagnosis_group_Dislocation and sprain of joints and ligaments of shoulder girdle,0.0
+pre_last_diagnosis_group_Encounter for supervision of normal pregnancy,0.0
+pre_last_diagnosis_group_Enlarged lymph nodes,0.0
+pre_last_diagnosis_group_Esophagitis,0.0
+"pre_last_diagnosis_group_Dislocation and sprain of joints and ligaments at ankle, foot and toe level",0.0
+pre_last_diagnosis_group_Dislocation and sprain of joints and ligaments of knee,0.0
+pre_last_diagnosis_group_Estrogen receptor status,0.0
+"pre_last_diagnosis_group_Excessive, frequent and irregular menstruation",0.0
+pre_last_diagnosis_group_Family history of primary malignant neoplasm,0.0
+pre_last_diagnosis_group_Flatulence and related conditions,0.0
+"pre_last_diagnosis_group_Fracture of foot and toe, except ankle",0.0
+"pre_last_diagnosis_group_Fracture of lower leg, including ankle",0.0
+pre_last_diagnosis_group_Fracture of shoulder and upper arm,0.0
+pre_last_diagnosis_group_Gastritis and duodenitis,0.0
+pre_last_diagnosis_group_Glaucoma,0.0
+pre_last_diagnosis_group_Headache,0.0
+pre_last_diagnosis_group_Open wound of knee and lower leg,0.0
+pre_last_diagnosis_group_Otalgia and effusion of ear,0.0
+"pre_last_diagnosis_group_Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",0.0
+"pre_last_diagnosis_group_Edema, not elsewhere classified",0.0
+pre_last_diagnosis_group_Other disorders of eye and adnexa,0.0
+"pre_last_diagnosis_group_Other disorders of kidney and ureter, not elsewhere classified",0.0
+pre_last_diagnosis_group_Other disorders of muscle,0.0
+"pre_last_diagnosis_group_Other disorders of skin and subcutaneous tissue, not elsewhere classified",0.0
+pre_last_diagnosis_group_Other disorders of synovium and tendon,0.0
+pre_last_diagnosis_group_Other disorders of teeth and supporting structures,0.0
+pre_last_diagnosis_group_Other disorders of white blood cells,0.0
+pre_last_diagnosis_group_Other enthesopathies,0.0
+pre_last_diagnosis_group_Other extrapyramidal and movement disorders,0.0
+pre_last_diagnosis_group_Other follicular disorders,0.0
+pre_last_diagnosis_group_Other general symptoms and signs,0.0
+pre_last_diagnosis_group_Candidiasis,0.0
+pre_last_diagnosis_group_Other disorders of breast,0.0
+pre_last_diagnosis_group_Other inflammation of vagina and vulva,0.0
+pre_last_diagnosis_group_Calculus of kidney and ureter,0.0
+pre_last_diagnosis_group_Other local infections of skin and subcutaneous tissue,0.0
+pre_last_diagnosis_group_Other respiratory disorders,0.0
+pre_last_diagnosis_group_Other skin changes,0.0
+pre_last_diagnosis_group_Other specified health status,0.0
+pre_last_diagnosis_group_Other spondylopathies,0.0
+pre_last_diagnosis_group_Other symptoms and signs involving the circulatory and respiratory system,0.0
+pre_last_diagnosis_group_Other symptoms and signs involving the digestive system and abdomen,0.0
+pre_last_diagnosis_group_Other symptoms and signs involving the nervous and musculoskeletal systems,0.0
+pre_last_diagnosis_group_Other systemic involvement of connective tissue,0.0
+pre_last_diagnosis_group_Other disorders of external ear,0.0
+pre_last_diagnosis_group_Other disorders of bone density and structure,0.0
+pre_last_diagnosis_group_Other abnormal findings of blood chemistry,0.0
+pre_last_diagnosis_group_Chronic sinusitis,0.0
+pre_last_diagnosis_group_Other abnormal immunological findings in serum,0.0
+pre_last_diagnosis_group_Other abnormal uterine and vaginal bleeding,0.0
+pre_last_diagnosis_group_Other and unspecified abnormal findings in urine,0.0
+pre_last_diagnosis_group_Other and unspecified dermatitis,0.0
+pre_last_diagnosis_group_Other and unspecified disorders of male genital organs,0.0
+pre_last_diagnosis_group_Other and unspecified disorders of nose and nasal sinuses,0.0
+pre_last_diagnosis_group_Other and unspecified injuries of ankle and foot,0.0
+pre_last_diagnosis_group_Other and unspecified injuries of head,0.0
+pre_last_diagnosis_group_Other and unspecified injuries of lower leg,0.0
+pre_last_diagnosis_group_Other and unspecified injuries of shoulder and upper arm,0.0
+"pre_last_diagnosis_group_Other and unspecified injuries of wrist, hand and finger",0.0
+"pre_last_diagnosis_group_Chronic rhinitis, nasopharyngitis and pharyngitis",0.0
+pre_last_diagnosis_group_Other disorders of arteries and arterioles,0.0
+pre_last_diagnosis_group_Other and unspecified noninfective gastroenteritis and colitis,0.0
+pre_last_diagnosis_group_Other and unspecified polyneuropathies,0.0
+pre_last_diagnosis_group_Other and unspecified symptoms and signs involving the genitourinary system,0.0
+pre_last_diagnosis_group_Cerebral infarction,0.0
+pre_last_diagnosis_group_Cardiomyopathy,0.0
+pre_last_diagnosis_group_Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence,0.0
+pre_last_diagnosis_group_Other chronic obstructive pulmonary disease,0.0
+pre_last_diagnosis_group_Other diseases of anus and rectum,0.0
+pre_last_diagnosis_group_Other diseases of digestive system,0.0
+pre_last_diagnosis_group_Other diseases of esophagus,0.0
+pre_last_diagnosis_group_Other diseases of liver,0.0
+"pre_last_diagnosis_group_Hemangioma and lymphangioma, any site",0.0

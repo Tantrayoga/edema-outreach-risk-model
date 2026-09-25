@@ -1,0 +1,2 @@
+model,patients_total,positive_total,positive_rate_pct,patients_train,patients_test,train_pct_positive,test_pct_positive,roc_auc,average_precision,threshold_0_50_precision,threshold_0_50_recall,threshold_0_50_f1,age_feature_included
+under_90_no_age_feature,3694,182,4.93,2770,924,4.91,4.98,0.7027334851936219,0.1439598419741374,0.16216216216216217,0.2608695652173913,0.2,False

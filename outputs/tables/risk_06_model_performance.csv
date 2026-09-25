@@ -1,0 +1,2 @@
+cutoff_date,patients_used,deceased_patients,death_rate_pct,roc_auc,average_precision
+2025-01-01,307408,4126,1.34,0.9874353298111352,0.6765924995791416

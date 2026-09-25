@@ -1,0 +1,2 @@
+model,roc_auc,average_precision,top_5pct_precision_pct,top_10pct_precision_pct,top_10pct_lift
+single_feature_baseline_pre_num_encounters,0.6422,0.0794,11.29,9.68,2.26

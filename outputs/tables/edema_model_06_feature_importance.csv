@@ -1,0 +1,342 @@
+feature,importance
+MyChartStatus_Activated,0.31894604577204694
+MyChartStatus_Inactivated,0.21171730955781867
+hist_max_los_hours,0.023304876355481667
+MyChartStatus_Pending Activation,0.02278228718405147
+PatientBirthYearBin_1930,0.022676641636387673
+hist_num_encounters,0.018466405364204165
+hist_encounters_per_observed_day,0.017833313573217355
+MaritalStatus_Widowed,0.017215469778779153
+hist_num_unique_encounters,0.017096856440150972
+PatientBirthYearBin_1935,0.01592001722132326
+hist_outpatient_face_to_face_visits,0.015430425828771485
+hist_avg_los_hours,0.013741432365750436
+hist_num_distinct_diagnoses,0.013574211276154057
+hist_num_departments,0.013400184865844036
+hist_observed_days,0.01314211438139952
+hist_num_diagnosis_groups,0.011931519848153452
+hist_inpatient_admissions,0.010619199260100388
+hist_num_department_specialties,0.009684780993073926
+hist_type_hospital_like,0.009101976963094886
+PatientBirthYearBin_1925,0.008996113662746908
+hist_hospital_admissions,0.008948239375981354
+hist_type_surgery_like,0.0085947628526495
+hist_num_attending_providers,0.008025208198174745
+PatientBirthYearBin_1955,0.007985817639639736
+hist_hospital_outpatient_visits,0.00698776756257887
+hist_num_department_types,0.00677893967622531
+PatientBirthYearBin_1970,0.006344979324851345
+hist_ed_visits,0.006220854934805765
+last_hist_encounter_type_Lab Requisition,0.00603742552118789
+hist_type_emergency_like,0.005616835195694575
+MaritalStatus_Married,0.00466167708492716
+first_edema_encounter_type_Lab Requisition,0.004376982435380702
+PatientBirthYearBin_1960,0.0038294736337171112
+"last_hist_diagnosis_group_Edema, not elsewhere classified",0.003584898561685838
+last_hist_department_type_Normal,0.00348708907793882
+PatientBirthYearBin_1945,0.0033022467795572824
+SexAssignedAtBirth_Female,0.003201494048726333
+first_edema_department_specialty_Lab,0.0031979448670244113
+MaritalStatus_Single,0.002982522081407804
+OmbRace_White,0.00290222313652375
+PatientBirthYearBin_1975,0.0028454316898811455
+SmokingStatus_Former,0.002795519144867276
+OmbRace_Black or African American,0.0027104010519095364
+PatientBirthYearBin_1950,0.0027043758376818017
+OmbEthnicity_Not Hispanic or Latino,0.0024863361224721505
+first_edema_department_specialty_Primary Care,0.0024536351199519737
+first_edema_department_type_Normal,0.0024241853415923973
+FirstRace_Black or African American,0.002376664905767176
+first_edema_diagnosis_value_R60.9,0.002306089713898669
+last_hist_department_type_*Unknown,0.0022459149272569937
+last_hist_department_specialty_Internal Medicine,0.0022449993849958196
+first_edema_diagnosis_name_Localized edema( ICD-10-CM: R60.0 ),0.0021278192762692236
+first_edema_encounter_type_Office Visit,0.0020816021163092046
+last_hist_department_specialty_Radiology,0.0020716209020130542
+SexAssignedAtBirth_*Unspecified,0.0020592530641561253
+"first_edema_diagnosis_name_Edema, unspecified( ICD-10-CM: R60.9 )",0.0020400398796931053
+last_hist_encounter_type_Lab Visit,0.0020011117635180195
+last_hist_department_specialty_Lab,0.0019994517161981335
+FirstRace_White or Caucasian,0.0019399896646731514
+SmokingStatus_Never,0.0019134501662946683
+PatientBirthYearBin_1980,0.0018572982560122206
+PatientBirthYearBin_1990,0.0017369383865984737
+PatientBirthYearBin_1940,0.0017237305206657168
+first_edema_department_specialty_Internal Medicine,0.0016161419509761103
+first_edema_encounter_type_Lab Visit,0.001555119205002096
+PatientBirthYearBin_1985,0.00154249930686546
+last_hist_encounter_type_Office Visit,0.0015198407099871333
+SmokingStatus_Every Day,0.0015026305706878627
+last_hist_encounter_type_Imaging,0.0014513875564470913
+first_edema_department_specialty_Radiology,0.001433792348736265
+last_hist_department_specialty_Emergency Medicine,0.0013902637308152747
+first_edema_encounter_type_Imaging,0.0013528005094716918
+first_edema_diagnosis_value_R60.0,0.0013124750163728848
+first_edema_department_type_*Unknown,0.0012640267010833688
+last_hist_department_type_HOD,0.001168344364457395
+SmokingStatus_*Unknown,0.0011666830744312558
+first_edema_department_specialty_Family Medicine,0.00107556499397046
+first_edema_encounter_type_Hospital Encounter,0.0010594284331343902
+SexAssignedAtBirth_Male,0.0010351547457064362
+PatientBirthYearBin_1965,0.0010330228809301589
+last_hist_encounter_type_Hospital Encounter,0.0009474432779708634
+OmbEthnicity_Hispanic or Latino,0.000897221795332432
+MyChartStatus_Patient Declined,0.000857934612073518
+last_hist_department_type_ED,0.0007816689394684801
+OmbRace_Unknown,0.0007679393740239678
+FirstRace_NA,0.0007628648131923473
+first_edema_department_type_HOD,0.0007482419177174368
+OmbRace_Some Other Race,0.0006621071786505078
+last_hist_encounter_type_Appointment,0.0006597191556607415
+first_edema_department_type_ED,0.0006105494749283181
+first_edema_department_specialty_Urgent Care,0.000603858123066478
+OmbEthnicity_Unknown,0.0005604684246822692
+first_edema_department_specialty_Emergency Medicine,0.0005268342635026182
+"FirstRace_Hispanic, Latino, or Spanish",0.0004981931142900413
+hist_observation_visits,0.0004888235190654056
+MaritalStatus_Significant Other,0.0004859894672813598
+SmokingStatus_Some Days,0.00046751298735193833
+last_hist_department_specialty_Family Medicine,0.0004194829727571453
+MaritalStatus_Divorced,0.00041100256402958686
+last_hist_department_specialty_Primary Care,0.0003602015806711355
+last_hist_department_specialty_Urgent Care,0.000307195493341373
+last_hist_department_specialty_Cardiology,0.00023455044462953565
+last_hist_encounter_type_Patient Outreach,0.0001764565917623841
+MaritalStatus_Unknown,0.00010834014175423537
+last_hist_department_specialty_Care Management,9.923805869145453e-05
+PatientBirthYearBin_1995,9.903138210786809e-05
+OmbEthnicity_Asked but No Answer,5.9462248869491754e-05
+first_edema_department_specialty_Cardiology,4.195382028695182e-05
+last_hist_department_specialty_Orthopedic Surgery,2.5836250543544503e-05
+hist_avg_sd_domains_screened,2.016510370734471e-05
+hist_max_sd_domains_screened,1.8847386167548935e-05
+first_edema_encounter_type_Initial consult,1.726615344155082e-05
+OmbRace_Two or More Races,1.3284243973783193e-18
+"last_hist_diagnosis_group_Other and unspecified injuries of abdomen, lower back, pelvis and external genitals",0.0
+last_hist_diagnosis_group_Malignant neoplasm of colon,0.0
+last_hist_diagnosis_group_Other disorders of muscle,0.0
+last_hist_diagnosis_group_Other disorders of pancreatic internal secretion,0.0
+last_hist_diagnosis_group_Other disorders of pigmentation,0.0
+last_hist_diagnosis_group_Other disorders of urinary system,0.0
+last_hist_diagnosis_group_Other disorders of veins,0.0
+last_hist_diagnosis_group_Other hypothyroidism,0.0
+last_hist_diagnosis_group_Other immunodeficiencies,0.0
+last_hist_diagnosis_group_Malignant neoplasm of prostate,0.0
+"last_hist_diagnosis_group_Other joint disorder, not elsewhere classified",0.0
+last_hist_diagnosis_group_Other nontoxic goiter,0.0
+last_hist_diagnosis_group_Malaise and fatigue,0.0
+"last_hist_diagnosis_group_Open wound of ankle, foot and toes",0.0
+last_hist_diagnosis_group_Other nutritional anemias,0.0
+last_hist_diagnosis_group_Long term,0.0
+last_hist_diagnosis_group_Other peripheral vascular diseases,0.0
+last_hist_diagnosis_group_Other skin changes,0.0
+"last_hist_diagnosis_group_Localized swelling, mass and lump of skin and subcutaneous tissue",0.0
+last_hist_diagnosis_group_Other symptoms and signs involving cognitive functions and awareness,0.0
+last_hist_diagnosis_group_Iron deficiency anemia,0.0
+last_hist_diagnosis_group_Hyperparathyroidism and other disorders of parathyroid gland,0.0
+last_hist_diagnosis_group_Other and unspecified abnormal findings in urine,0.0
+last_hist_diagnosis_group_Other abnormal findings of blood chemistry,0.0
+"last_hist_diagnosis_group_Other disorders of kidney and ureter, not elsewhere classified",0.0
+"last_hist_diagnosis_group_Other disorders of fluid, electrolyte and acid-base balance",0.0
+last_hist_diagnosis_group_Osteoporosis without current pathological fracture,0.0
+last_hist_diagnosis_group_Mature t/NK-cell lymphomas,0.0
+"last_hist_diagnosis_group_Non-pressure chronic ulcer of lower limb, not elsewhere classified",0.0
+last_hist_diagnosis_group_Osteoarthritis of knee,0.0
+last_hist_diagnosis_group_Non-follicular lymphoma,0.0
+last_hist_diagnosis_group_Nicotine dependence,0.0
+last_hist_diagnosis_group_Nausea and vomiting,0.0
+last_hist_diagnosis_group_Osteoporosis with current pathological fracture,0.0
+last_hist_diagnosis_group_Other and unspecified osteoarthritis,0.0
+"last_hist_diagnosis_group_Other and unspecified soft tissue disorders, not elsewhere classified",0.0
+last_hist_diagnosis_group_Other and unspecified symptoms and signs involving the genitourinary system,0.0
+last_hist_diagnosis_group_Other and unspecified diseases of blood and blood-forming organs,0.0
+last_hist_diagnosis_group_Nail disorders,0.0
+last_hist_diagnosis_group_Other anemias,0.0
+last_hist_diagnosis_group_Other anxiety disorders,0.0
+last_hist_diagnosis_group_Multiple myeloma and malignant plasma cell neoplasms,0.0
+last_hist_diagnosis_group_Other bursopathies,0.0
+last_hist_diagnosis_group_Migraine,0.0
+last_hist_diagnosis_group_Other cardiac arrhythmias,0.0
+last_hist_diagnosis_group_Other acquired deformities of musculoskeletal system and connective tissue,0.0
+last_hist_diagnosis_group_Other diseases of liver,0.0
+last_hist_diagnosis_group_Other diseases of pericardium,0.0
+last_hist_diagnosis_group_Other disorders of bone,0.0
+last_hist_diagnosis_group_Other chronic obstructive pulmonary disease,0.0
+last_hist_diagnosis_group_Unspecified chronic bronchitis,0.0
+last_hist_diagnosis_group_Other symptoms and signs involving the circulatory and respiratory system,0.0
+last_hist_department_specialty_Infusion Therapy,0.0
+last_hist_diagnosis_group_Headache,0.0
+last_hist_department_type_OR,0.0
+last_hist_department_specialty_*Unspecified,0.0
+last_hist_department_specialty_Allergy,0.0
+last_hist_department_specialty_Cardiothoracic Surgery,0.0
+last_hist_department_specialty_Endocrinology,0.0
+last_hist_department_specialty_Gastroenterology,0.0
+last_hist_department_specialty_General Surgery,0.0
+last_hist_department_specialty_Hematology and Oncology,0.0
+last_hist_department_specialty_Infectious Diseases,0.0
+last_hist_department_specialty_Sleep Medicine,0.0
+last_hist_department_specialty_Rheumatology,0.0
+last_hist_diagnosis_group_Vasomotor and allergic rhinitis,0.0
+last_hist_department_specialty_Nephrology,0.0
+last_hist_department_specialty_Neurology,0.0
+last_hist_department_specialty_Obstetrics,0.0
+last_hist_department_specialty_Obstetrics and Gynecology,0.0
+last_hist_department_specialty_Pediatrics,0.0
+last_hist_department_specialty_Physical Medicine and Rehabilitation,0.0
+last_hist_department_specialty_Physical Therapy,0.0
+last_hist_department_specialty_Plastic Surgery,0.0
+last_hist_department_specialty_Pre-Admission Testing,0.0
+last_hist_department_specialty_Pulmonology,0.0
+last_hist_department_specialty_Radiation Oncology,0.0
+last_hist_department_type_L&D,0.0
+last_hist_diagnosis_group_Varicose veins of lower extremities,0.0
+last_hist_diagnosis_group_Other symptoms and signs involving the digestive system and abdomen,0.0
+"last_hist_diagnosis_group_Pneumonia, unspecified organism",0.0
+last_hist_diagnosis_group_Other venous embolism and thrombosis,0.0
+last_hist_diagnosis_group_Overweight and obesity,0.0
+last_hist_diagnosis_group_Pain associated with micturition,0.0
+last_hist_diagnosis_group_Pain in throat and chest,0.0
+last_hist_diagnosis_group_Paroxysmal tachycardia,0.0
+last_hist_diagnosis_group_Personal history of certain other diseases,0.0
+last_hist_diagnosis_group_Personal history of malignant neoplasm,0.0
+last_hist_diagnosis_group_Personal history of medical treatment,0.0
+last_hist_diagnosis_group_Personal history of other diseases and conditions,0.0
+"last_hist_diagnosis_group_Personal risk factors, not elsewhere classified",0.0
+"last_hist_diagnosis_group_Persons encountering health services for specific procedures and treatment, not carried out",0.0
+"last_hist_diagnosis_group_Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",0.0
+last_hist_diagnosis_group_Unspecified fall,0.0
+last_hist_diagnosis_group_Presence of cardiac and vascular implants and grafts,0.0
+last_hist_diagnosis_group_Presence of other functional implants,0.0
+last_hist_diagnosis_group_Proteinuria,0.0
+last_hist_diagnosis_group_Pulmonary embolism,0.0
+last_hist_diagnosis_group_Purpura and other hemorrhagic conditions,0.0
+last_hist_diagnosis_group_Resistant hypertension,0.0
+last_hist_diagnosis_group_Rheumatoid arthritis with rheumatoid factor,0.0
+last_hist_diagnosis_group_Sarcoidosis,0.0
+last_hist_diagnosis_group_Sleep disorders,0.0
+last_hist_diagnosis_group_Symptoms and signs concerning food and fluid intake,0.0
+last_hist_diagnosis_group_Type 2 diabetes mellitus,0.0
+last_hist_diagnosis_group_Heart failure,0.0
+last_hist_diagnosis_group_Abdominal and pelvic pain,0.0
+last_hist_diagnosis_group_Gout,0.0
+first_edema_department_specialty_Pre-Admission Testing,0.0
+OmbRace_Asked but No Answer,0.0
+OmbRace_Native Hawaiian or Other Pacific Islander,0.0
+first_edema_encounter_type_Follow-Up,0.0
+first_edema_encounter_type_Patient Outreach,0.0
+first_edema_encounter_type_Procedure visit,0.0
+first_edema_encounter_type_Telemedicine,0.0
+first_edema_encounter_type_Treatment,0.0
+first_edema_department_type_L&D,0.0
+first_edema_department_type_OR,0.0
+first_edema_department_specialty_*Unspecified,0.0
+first_edema_department_specialty_Allergy,0.0
+first_edema_department_specialty_Cardiothoracic Surgery,0.0
+first_edema_department_specialty_Care Management,0.0
+first_edema_department_specialty_Dermatology,0.0
+first_edema_department_specialty_Endocrinology,0.0
+first_edema_department_specialty_Gastroenterology,0.0
+first_edema_department_specialty_General Surgery,0.0
+first_edema_department_specialty_Hematology and Oncology,0.0
+first_edema_department_specialty_Infectious Diseases,0.0
+first_edema_department_specialty_Infusion Therapy,0.0
+first_edema_department_specialty_Nephrology,0.0
+first_edema_department_specialty_Neurology,0.0
+first_edema_department_specialty_Obstetrics,0.0
+first_edema_department_specialty_Orthopedic Surgery,0.0
+first_edema_department_specialty_Pediatrics,0.0
+first_edema_department_specialty_Physical Medicine and Rehabilitation,0.0
+first_edema_department_specialty_Physical Therapy,0.0
+OmbRace_Asian,0.0
+OmbRace_American Indian or Alaska Native,0.0
+FirstRace_Unknown,0.0
+SmokingStatus_Never Assessed,0.0
+hist_encounters_with_sd_screening,0.0
+hist_total_sd_domain_screens,0.0
+PatientBirthYearBin_1915,0.0
+PatientBirthYearBin_1920,0.0
+PatientBirthYearBin_2000,0.0
+PatientBirthYearBin_2005,0.0
+PatientBirthYearBin_2010,0.0
+PatientBirthYearBin_2015,0.0
+PatientBirthYearBin_2020,0.0
+SexAssignedAtBirth_Choose not to disclose,0.0
+SmokingStatus_Heavy Smoker,0.0
+SmokingStatus_Light Smoker,0.0
+SmokingStatus_Passive Smoke Exposure - Never Smoker,0.0
+FirstRace_Patient Refused,0.0
+SmokingStatus_Unknown,0.0
+MaritalStatus_*Unspecified,0.0
+MaritalStatus_Legally Separated,0.0
+MaritalStatus_Life Partner,0.0
+MaritalStatus_Other,0.0
+MyChartStatus_*Unspecified,0.0
+MyChartStatus_Non Standard MyChart Status,0.0
+FirstRace_American Indian or Alaska Native,0.0
+FirstRace_Asian,0.0
+FirstRace_Middle Eastern or North African,0.0
+FirstRace_Native Hawaiian or other Pacific Islander,0.0
+FirstRace_Other,0.0
+first_edema_department_specialty_Plastic Surgery,0.0
+first_edema_department_specialty_Pulmonology,0.0
+last_hist_diagnosis_group_Genetic susceptibility to disease,0.0
+first_edema_department_specialty_Radiation Oncology,0.0
+last_hist_diagnosis_group_Complications and ill-defined descriptions of heart disease,0.0
+"last_hist_diagnosis_group_Complications of internal orthopedic prosthetic devices, implants and grafts",0.0
+last_hist_diagnosis_group_Cough,0.0
+last_hist_diagnosis_group_Crohn's disease,0.0
+last_hist_diagnosis_group_Deficiency of other b group vitamins,0.0
+last_hist_diagnosis_group_Deficiency of other nutrient elements,0.0
+last_hist_diagnosis_group_Dermatophytosis,0.0
+last_hist_diagnosis_group_Disorders of lipoprotein metabolism and other lipidemias,0.0
+last_hist_diagnosis_group_Disturbances of skin sensation,0.0
+last_hist_diagnosis_group_Dorsalgia,0.0
+last_hist_diagnosis_group_Eating disorders,0.0
+last_hist_diagnosis_group_Elevated blood glucose level,0.0
+last_hist_diagnosis_group_Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,0.0
+last_hist_diagnosis_group_Encounter for fitting and adjustment of other devices,0.0
+"last_hist_diagnosis_group_Encounter for general examination without complaint, suspected or reported diagnosis",0.0
+last_hist_diagnosis_group_Encounter for other aftercare and medical care,0.0
+"last_hist_diagnosis_group_Encounter for other special examination without complaint, suspected or reported diagnosis",0.0
+last_hist_diagnosis_group_Encounter for screening for infectious and parasitic diseases,0.0
+last_hist_diagnosis_group_Encounter for screening for malignant neoplasms,0.0
+last_hist_diagnosis_group_Encounter for screening for other diseases and disorders,0.0
+last_hist_diagnosis_group_Essential,0.0
+last_hist_diagnosis_group_Estrogen receptor status,0.0
+last_hist_diagnosis_group_Fibrosis and cirrhosis of liver,0.0
+last_hist_diagnosis_group_Flatulence and related conditions,0.0
+last_hist_diagnosis_group_Follicular lymphoma,0.0
+last_hist_diagnosis_group_Fracture of femur,0.0
+"last_hist_diagnosis_group_Fracture of lower leg, including ankle",0.0
+last_hist_diagnosis_group_Chronic kidney disease,0.0
+last_hist_diagnosis_group_Chronic ischemic heart disease,0.0
+last_hist_diagnosis_group_Cellulitis and acute lymphangitis,0.0
+last_hist_diagnosis_group_Abnormal findings on diagnostic imaging of lung,0.0
+first_edema_department_specialty_Rheumatology,0.0
+first_edema_department_specialty_Sleep Medicine,0.0
+first_edema_department_specialty_Wound Care,0.0
+last_hist_encounter_type_Anti-coag visit,0.0
+last_hist_encounter_type_Follow-Up,0.0
+last_hist_encounter_type_Infusion,0.0
+last_hist_encounter_type_Initial consult,0.0
+last_hist_encounter_type_Procedure visit,0.0
+last_hist_encounter_type_Routine Prenatal,0.0
+last_hist_encounter_type_Telemedicine,0.0
+last_hist_encounter_type_Treatment,0.0
+last_hist_diagnosis_group_Abnormal and inconclusive findings on diagnostic imaging of breast,0.0
+last_hist_diagnosis_group_Abnormal tumor markers,0.0
+last_hist_diagnosis_group_Cardiomyopathy,0.0
+last_hist_diagnosis_group_Abnormalities of breathing,0.0
+last_hist_diagnosis_group_Abnormalities of heart beat,0.0
+last_hist_diagnosis_group_Acute kidney failure,0.0
+last_hist_diagnosis_group_Alcohol related disorders,0.0
+last_hist_diagnosis_group_Aortic aneurysm and dissection,0.0
+last_hist_diagnosis_group_Asymptomatic human immunodeficiency virus,0.0
+last_hist_diagnosis_group_Atherosclerosis,0.0
+last_hist_diagnosis_group_Atrial fibrillation and flutter,0.0
+last_hist_diagnosis_group_Benign neoplasm of other and unspecified sites,0.0
+last_hist_diagnosis_group_Benign neuroendocrine tumors,0.0
+last_hist_diagnosis_group_Body mass index,0.0
+last_hist_diagnosis_group_Candidiasis,0.0
+last_hist_department_specialty_Wound Care,0.0

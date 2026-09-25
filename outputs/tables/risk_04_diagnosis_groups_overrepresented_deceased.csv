@@ -1,0 +1,51 @@
+GroupName,patients_with_group_before_cutoff,deceased_patients,pct_deceased,relative_risk_vs_overall
+Hypertensive heart and chronic kidney disease,571,125.0,21.89,16.31
+Alzheimer's disease,604,125.0,20.7,15.42
+Unspecified dementia,563,109.0,19.36,14.42
+Malignant neoplasm of bronchus and lung,593,103.0,17.37,12.94
+Pressure ulcer,580,100.0,17.24,12.85
+Hypertensive heart disease,967,152.0,15.72,11.71
+Anemia in chronic diseases classified elsewhere,570,79.0,13.86,10.33
+Heart failure,4628,605.0,13.07,9.74
+"Complications of cardiac and vascular prosthetic devices, implants and grafts",531,69.0,12.99,9.68
+Parkinson's disease,757,91.0,12.02,8.96
+Other pulmonary heart diseases,524,61.0,11.64,8.67
+"Respiratory failure, not elsewhere classified",1674,193.0,11.53,8.59
+Fracture of femur,1137,127.0,11.17,8.32
+Other nutritional anemias,727,81.0,11.14,8.3
+Encounter for adjustment and management of implanted device,1493,159.0,10.65,7.93
+Acute kidney failure,1901,192.0,10.1,7.52
+Other sepsis,3979,367.0,9.22,6.87
+Osteomyelitis,522,47.0,9.0,6.71
+Retention of urine,956,85.0,8.89,6.62
+Other symptoms and signs involving cognitive functions and awareness,3679,323.0,8.78,6.54
+"Complications of genitourinary prosthetic devices, implants and grafts",547,48.0,8.78,6.54
+Emphysema,1123,96.0,8.55,6.37
+Osteoporosis with current pathological fracture,936,80.0,8.55,6.37
+Atherosclerosis,1224,104.0,8.5,6.33
+Atrial fibrillation and flutter,8326,692.0,8.31,6.19
+"Non-pressure chronic ulcer of lower limb, not elsewhere classified",1867,155.0,8.3,6.19
+Other anemias,6394,529.0,8.27,6.16
+Other disorders of brain,969,80.0,8.26,6.15
+Fibrosis and cirrhosis of liver,673,55.0,8.17,6.09
+Other disorders of urinary system,6667,542.0,8.13,6.06
+Presence of cardiac and vascular implants and grafts,4381,354.0,8.08,6.02
+Chronic kidney disease,9003,725.0,8.05,6.0
+Complications and ill-defined descriptions of heart disease,1226,97.0,7.91,5.89
+"Edema, not elsewhere classified",4411,342.0,7.75,5.78
+"Other disorders of fluid, electrolyte and acid-base balance",6376,486.0,7.62,5.68
+Other peripheral vascular diseases,2242,171.0,7.63,5.68
+Nonrheumatic aortic valve disorders,1857,141.0,7.59,5.66
+Atrioventricular and left bundle-branch block,910,69.0,7.58,5.65
+"Findings of drugs and other substances, not normally found in blood",501,38.0,7.58,5.65
+Other diseases of pancreas,548,41.0,7.48,5.57
+Hypotension,1222,91.0,7.45,5.55
+Other chronic obstructive pulmonary disease,3825,281.0,7.35,5.47
+Cerebral infarction,1773,127.0,7.16,5.34
+Fracture of lumbar spine and pelvis,1102,79.0,7.17,5.34
+Encounter for other aftercare and medical care,4103,292.0,7.12,5.3
+Cardiomyopathy,1873,133.0,7.1,5.29
+Aortic aneurysm and dissection,1256,87.0,6.93,5.16
+Fracture of rib,1382,94.0,6.8,5.07
+Hypertensive crisis,592,40.0,6.76,5.03
+Malignant neoplasm of prostate,1570,104.0,6.62,4.94

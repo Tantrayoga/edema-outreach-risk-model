@@ -1,0 +1,3 @@
+split,patients,positive,negative,pct_positive
+train,446,88,358,19.73
+test,149,30,119,20.13

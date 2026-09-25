@@ -1,0 +1,45 @@
+
+MODEL PURPOSE
+This model ranks edema patients by risk of future high-risk trajectory.
+It is not a hard death-prediction model.
+
+TARGET
+Future high-risk edema trajectory:
+patient eventually marked deceased AND later had long/complex edema-related or utilization trajectory.
+
+PREDICTION POINT
+60 days after first edema diagnosis.
+
+COHORT
+All edema patients, including 90+.
+Age is represented as broad age_group, not exact birth-year bin.
+
+MAIN EVALUATION
+Top-k precision, recall, and lift.
+
+WHY TOP-K?
+SVH likely has limited outreach capacity.
+The practical question is:
+If SVH can only contact the top 5% or 10% highest-risk edema patients, how enriched is that group for future high-risk trajectories?
+
+BASELINE
+Baseline high-risk rate in the test set: 6.99%.
+
+KEY RESULTS
+See ranking_model_05_topk_precision_recall_lift.csv.
+
+INTERPRETATION TEMPLATE
+If the top 10% precision is much higher than the baseline rate, the model is useful for prioritizing outreach.
+For example, if baseline is 7% and top 10% precision is 22%, then the top 10% group is about 3.1x enriched compared with random selection.
+
+LIMITATIONS
+- This is a prioritization model, not a clinical diagnosis tool.
+- VitalStatus does not provide exact death timing.
+- External validation is needed before real deployment.
+- False positives may be acceptable if the intervention is low-risk outreach, follow-up scheduling, or care coordination.
+
+RECOMMENDED USE
+Use predicted_risk to create outreach tiers:
+- Top 5%: urgent outreach
+- Top 10%: high-priority outreach
+- Top 20%: monitor / secondary outreach

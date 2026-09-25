@@ -1,0 +1,5 @@
+top_risk_group,patients_flagged,actual_deceased_in_flagged,precision_deceased_rate_in_flagged,recall_pct_of_all_deceased_captured
+top_5pct,53,49,92.45,59.76
+top_10pct,107,72,67.29,87.8
+top_20pct,214,80,37.38,97.56
+top_30pct,321,82,25.55,100.0

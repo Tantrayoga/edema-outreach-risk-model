@@ -1,0 +1,306 @@
+DiagnosisValue,DiagnosisName,GroupName,diagnosis_candidate_bucket,patients_with_dx_before_cutoff,deceased_patients,pct_deceased,relative_risk_vs_overall,pct_first_seen_non_emergency_like,pct_no_ed_or_hospital_before_cutoff,pct_had_ed_before_cutoff,pct_had_hospital_admission_before_cutoff,avg_dx_encounters,avg_dx_department_types,avg_dx_observed_days,outreach_opportunity_score
+G30.1,Alzheimer's disease with late onset (CMS-HCC)( ICD-10-CM: G30.1 ),Alzheimer's disease,4_other,328,66.0,20.12,15.65,71.95,97.56,2.44,1.52,2.54,1.06,197.02,41.801050667077526
+I51.9,"Heart disease, unspecified( ICD-10-CM: I51.9 )",Complications and ill-defined descriptions of heart disease,4_other,270,54.0,20.0,15.56,69.26,99.26,0.74,0.0,1.53,1.01,56.96,37.82503829257127
+Z51.11,Encounter for antineoplastic chemotherapy( ICD-10-CM: Z51.11 ),Encounter for other aftercare and medical care,4_other,725,137.0,18.9,14.7,52.28,95.86,0.0,4.14,4.92,1.03,164.5,36.61192425772467
+G30.9,"Alzheimer's disease, unspecified (CMS-HCC)( ICD-10-CM: G30.9 )",Alzheimer's disease,4_other,217,46.0,21.2,16.49,70.05,93.55,5.99,3.69,2.24,1.06,141.9,35.606621506581114
+Z09,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm( ICD-10-CM: Z09 ),Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,4_other,10319,472.0,4.57,3.56,96.01,99.97,0.03,0.0,1.4,1.01,59.78,29.44002041539813
+J44.9,"Chronic obstructive pulmonary disease, unspecified (Multi HCC)( ICD-10-CM: J44.9 )",Other chronic obstructive pulmonary disease,4_other,2441,214.0,8.77,6.82,65.75,95.0,4.88,0.2,2.59,1.13,258.71,27.147071114988144
+G20.A1,"Parkinson's disease without dyskinesia, without mention of fluctuations (Multi HCC)( ICD-10-CM: G20.A1 )",Parkinson's disease,4_other,604,73.0,12.09,9.4,67.72,96.69,3.15,2.81,3.26,1.07,275.57,26.34680725087604
+I48.21,Permanent atrial fibrillation (HCC) (Multi HCC)( ICD-10-CM: I48.21 ),Atrial fibrillation and flutter,4_other,706,101.0,14.31,11.13,63.6,79.6,3.4,20.25,4.92,1.08,308.74,26.321468412716037
+F03.90,"Unspecified dementia, unspecified severity, without behavioral disturbance, psychotic disturbance, mood disturbance, and anxiety (CMS-HCC)( ICD-10-CM: F03.90 )",Unspecified dementia,4_other,316,66.0,20.89,16.25,47.47,86.08,13.92,3.48,2.32,1.11,114.88,25.1096517504364
+I48.0,Paroxysmal atrial fibrillation (HCC) (Multi HCC)( ICD-10-CM: I48.0 ),Atrial fibrillation and flutter,4_other,5808,438.0,7.54,5.87,60.64,83.26,6.7,14.38,5.03,1.13,350.35,23.66561721881459
+R41.0,"Disorientation, unspecified( ICD-10-CM: R41.0 )",Other symptoms and signs involving cognitive functions and awareness,4_other,666,133.0,19.97,15.53,41.44,75.08,24.92,1.35,1.47,1.11,28.28,23.57755133966299
+I48.20,"Chronic atrial fibrillation, unspecified (HCC) (Multi HCC)( ICD-10-CM: I48.20 )",Atrial fibrillation and flutter,4_other,531,85.0,16.01,12.45,46.89,91.9,7.91,1.13,5.35,1.1,253.57,23.2001961734871
+I10,Essential (primary) hypertension( ICD-10-CM: I10 ),Essential,4_other,43862,1716.0,3.91,3.04,60.09,97.34,2.64,0.05,3.35,1.07,330.13,21.376074788106084
+N39.0,"Urinary tract infection, site not specified( ICD-10-CM: N39.0 )",Other disorders of urinary system,4_other,5402,502.0,9.29,7.23,47.06,76.66,22.86,4.54,2.09,1.12,104.38,21.105756170930675
+I73.9,"Peripheral vascular disease, unspecified( ICD-10-CM: I73.9 )",Other peripheral vascular diseases,4_other,1947,170.0,8.73,6.79,51.0,98.56,1.39,0.1,3.37,1.08,268.67,20.26914832036487
+J43.1,Panlobular emphysema (Multi HCC)( ICD-10-CM: J43.1 ),Emphysema,4_other,248,30.0,12.1,9.41,68.95,98.39,0.81,1.61,2.38,1.05,135.63,19.731151911030647
+C34.91,Malignant neoplasm of unspecified part of right bronchus or lung (Multi HCC)( ICD-10-CM: C34.91 ),Malignant neoplasm of bronchus and lung,4_other,211,38.0,18.01,14.01,45.97,96.21,1.9,3.32,15.64,1.64,337.65,19.538137242648105
+D64.9,"Anemia, unspecified( ICD-10-CM: D64.9 )",Other anemias,4_other,6304,521.0,8.26,6.43,37.01,96.95,2.93,0.43,2.05,1.07,90.78,19.114715294810605
+D53.8,Other specified nutritional anemias( ICD-10-CM: D53.8 ),Other nutritional anemias,4_other,230,29.0,12.61,9.81,63.91,100.0,0.0,0.0,2.2,1.05,124.73,18.9946427151153
+J43.2,Centrilobular emphysema (Multi HCC)( ICD-10-CM: J43.2 ),Emphysema,4_other,569,47.0,8.26,6.43,74.17,98.59,1.05,1.23,2.11,1.13,206.88,18.246771065823616
+R09.02,Hypoxemia( ICD-10-CM: R09.02 ),Other symptoms and signs involving the circulatory and respiratory system,4_other,329,45.0,13.68,10.64,52.28,87.84,10.94,3.04,1.37,1.11,26.59,17.212901547342927
+Z87.440,Personal history of urinary (tract) infections( ICD-10-CM: Z87.440 ),Personal history of other diseases and conditions,4_other,620,58.0,9.35,7.28,53.39,100.0,0.0,0.0,1.46,1.01,48.33,15.950823807374768
+Z95.818,Presence of other cardiac implants and grafts( ICD-10-CM: Z95.818 ),Presence of cardiac and vascular implants and grafts,4_other,606,43.0,7.1,5.52,74.75,100.0,0.0,0.0,1.32,1.01,61.09,15.877639743793337
+I27.20,"Pulmonary hypertension, unspecified (Multi HCC)( ICD-10-CM: I27.20 )",Other pulmonary heart diseases,4_other,435,53.0,12.18,9.48,44.14,97.93,1.38,1.61,1.94,1.17,109.54,15.622005863758586
+J84.9,"Interstitial pulmonary disease, unspecified (Multi HCC)( ICD-10-CM: J84.9 )",Other interstitial pulmonary diseases,4_other,362,42.0,11.6,9.03,50.28,94.75,4.97,3.87,3.54,1.39,271.41,15.180819539829802
+Z96.1,Presence of intraocular lens( ICD-10-CM: Z96.1 ),Presence of other functional implants,4_other,1493,68.0,4.55,3.54,88.55,100.0,0.0,0.0,2.86,1.0,154.56,15.074269273632751
+I48.11,Longstanding persistent atrial fibrillation (HCC) (Multi HCC)( ICD-10-CM: I48.11 ),Atrial fibrillation and flutter,4_other,264,27.0,10.23,7.96,62.88,93.56,3.41,5.3,3.3,1.06,150.08,14.321779838673677
+L03.90,"Cellulitis, unspecified( ICD-10-CM: L03.90 )",Cellulitis and acute lymphangitis,4_other,373,25.0,6.7,5.21,86.06,98.66,1.34,0.0,1.26,1.01,11.15,14.115440121546872
+K74.69,Other cirrhosis of liver (Multi HCC)( ICD-10-CM: K74.69 ),Fibrosis and cirrhosis of liver,4_other,258,31.0,12.02,9.35,46.9,98.45,1.16,1.55,3.01,1.17,247.04,13.525057526384396
+R41.89,Other symptoms and signs involving cognitive functions and awareness( ICD-10-CM: R41.89 ),Other symptoms and signs involving cognitive functions and awareness,4_other,719,59.0,8.21,6.38,48.96,99.3,0.7,0.56,2.1,1.17,98.33,13.06253379203295
+R41.3,Other amnesia( ICD-10-CM: R41.3 ),Other symptoms and signs involving cognitive functions and awareness,4_other,1439,91.0,6.32,4.92,52.74,99.17,0.83,0.14,1.85,1.24,63.85,13.042978473828535
+L60.3,Nail dystrophy( ICD-10-CM: L60.3 ),Nail disorders,4_other,296,26.0,8.78,6.83,61.15,100.0,0.0,0.0,1.59,1.01,63.57,12.925686645903026
+I48.3,Typical atrial flutter (HCC) (Multi HCC)( ICD-10-CM: I48.3 ),Atrial fibrillation and flutter,4_other,319,32.0,10.03,7.8,56.74,89.03,7.52,7.84,2.61,1.06,169.12,12.879901198074279
+C61,Malignant neoplasm of prostate (Multi HCC)( ICD-10-CM: C61 ),Malignant neoplasm of prostate,4_other,1570,104.0,6.62,5.15,47.13,99.68,0.19,0.32,12.34,1.53,433.44,12.73457840068982
+L03.119,Cellulitis of unspecified part of limb( ICD-10-CM: L03.119 ),Cellulitis and acute lymphangitis,4_other,281,20.0,7.12,5.54,78.65,97.51,2.49,0.0,1.69,1.04,37.9,12.370453589036595
+L03.116,Cellulitis of left lower limb( ICD-10-CM: L03.116 ),Cellulitis and acute lymphangitis,4_other,1722,98.0,5.69,4.43,70.33,75.09,23.81,7.14,1.83,1.15,36.26,12.325219180252788
+L57.0,Actinic keratosis( ICD-10-CM: L57.0 ),Skin changes due to chronic exposure to nonionizing radiation,4_other,4564,141.0,3.09,2.4,80.26,100.0,0.0,0.0,1.61,1.0,169.05,12.29049136372913
+D53.9,"Nutritional anemia, unspecified( ICD-10-CM: D53.9 )",Other nutritional anemias,4_other,490,52.0,10.61,8.26,38.78,98.37,1.63,0.61,2.24,1.05,79.1,12.194710368089748
+I48.91,Unspecified atrial fibrillation (HCC) (Multi HCC)( ICD-10-CM: I48.91 ),Atrial fibrillation and flutter,4_other,3261,203.0,6.23,4.84,44.53,86.38,12.73,5.67,2.67,1.13,128.36,12.18823690265306
+G31.84,Mild cognitive impairment of uncertain or unknown etiology( ICD-10-CM: G31.84 ),"Other degenerative diseases of nervous system, not elsewhere classified",4_other,425,35.0,8.24,6.41,53.18,99.06,0.94,0.47,1.9,1.12,119.4,11.78361887290812
+Z51.89,Encounter for other specified aftercare( ICD-10-CM: Z51.89 ),Encounter for other aftercare and medical care,4_other,906,36.0,3.97,3.09,96.8,99.12,0.88,0.0,1.35,1.01,14.65,11.681102833142331
+Z79.899,Other long term (current) drug therapy( ICD-10-CM: Z79.899 ),Long term,4_other,8913,451.0,5.06,3.94,34.56,99.8,0.17,0.19,3.19,1.03,191.17,11.440083889812286
+J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation (Multi HCC)( ICD-10-CM: J44.1 ),Other chronic obstructive pulmonary disease,4_other,1862,120.0,6.44,5.01,62.03,66.17,33.35,9.24,2.0,1.22,122.39,11.379884702491156
+M86.9,"Osteomyelitis, unspecified (Multi HCC)( ICD-10-CM: M86.9 )",Osteomyelitis,4_other,278,27.0,9.71,7.56,50.72,96.04,1.8,3.24,4.96,1.28,71.09,11.362475188144698
+R13.12,"Dysphagia, oropharyngeal phase( ICD-10-CM: R13.12 )",Aphagia and dysphagia,4_other,298,37.0,12.42,9.66,35.57,99.33,0.67,0.67,2.84,1.2,32.57,11.361602755846306
+S06.5XAA,"Traumatic subdural hemorrhage with loss of consciousness status unknown, initial encounter (CMS-HCC)( ICD-10-CM: S06.5XAA )",Intracranial injury,4_other,289,34.0,11.76,9.15,48.79,76.82,14.19,22.15,2.62,1.42,46.09,11.16262582837844
+J18.9,"Pneumonia, unspecified organism( ICD-10-CM: J18.9 )","Pneumonia, unspecified organism",4_other,3461,207.0,5.98,4.65,54.78,65.99,32.74,10.2,1.48,1.13,24.48,11.12398586679943
+L97.522,Non-pressure chronic ulcer of other part of left foot with fat layer exposed (Multi HCC)( ICD-10-CM: L97.522 ),"Non-pressure chronic ulcer of lower limb, not elsewhere classified",4_other,297,38.0,12.79,9.95,33.33,100.0,0.0,0.0,5.57,1.08,109.24,11.093749719178195
+R33.9,"Retention of urine, unspecified( ICD-10-CM: R33.9 )",Retention of urine,4_other,914,83.0,9.08,7.06,47.37,70.68,29.32,0.55,1.7,1.13,68.29,11.039499482174897
+L03.115,Cellulitis of right lower limb( ICD-10-CM: L03.115 ),Cellulitis and acute lymphangitis,4_other,1526,86.0,5.64,4.38,68.55,72.41,25.49,8.72,1.8,1.11,32.55,10.985814935298194
+D63.8,Anemia in other chronic diseases classified elsewhere( ICD-10-CM: D63.8 ),Anemia in chronic diseases classified elsewhere,4_other,324,39.0,12.04,9.36,34.57,99.38,0.31,0.31,3.07,1.06,125.31,10.973546840535525
+N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms( ICD-10-CM: N40.1 ),Benign prostatic hyperplasia,4_other,2433,113.0,4.64,3.61,54.38,98.6,1.19,0.86,1.87,1.07,143.38,10.964112077225188
+Z86.79,Personal history of other diseases of the circulatory system( ICD-10-CM: Z86.79 ),Personal history of certain other diseases,4_other,498,38.0,7.63,5.94,50.4,99.8,0.2,0.0,1.76,1.06,113.9,10.873602732303313
+Z95.0,Presence of cardiac pacemaker( ICD-10-CM: Z95.0 ),Presence of cardiac and vascular implants and grafts,4_other,1735,186.0,10.72,8.34,21.9,100.0,0.0,0.0,2.73,1.0,346.52,10.857976316346948
+C90.00,Multiple myeloma not having achieved remission (HCC) (Multi HCC)( ICD-10-CM: C90.00 ),Multiple myeloma and malignant plasma cell neoplasms,4_other,225,35.0,15.56,12.1,30.22,94.67,3.56,4.89,21.53,1.4,285.28,10.855625748944963
+J43.9,"Emphysema, unspecified (Multi HCC)( ICD-10-CM: J43.9 )",Emphysema,4_other,283,23.0,8.13,6.32,62.54,91.52,7.42,3.89,1.61,1.07,91.68,10.840406832248233
+I48.19,Other persistent atrial fibrillation (Multi HCC)( ICD-10-CM: I48.19 ),Atrial fibrillation and flutter,4_other,1716,123.0,7.17,5.58,44.11,80.01,4.95,19.23,4.22,1.09,251.61,10.831232108081151
+I48.92,Unspecified atrial flutter (HCC) (Multi HCC)( ICD-10-CM: I48.92 ),Atrial fibrillation and flutter,4_other,551,46.0,8.35,6.49,50.64,84.39,13.25,9.44,2.98,1.11,163.71,10.662925668084895
+Z48.89,Encounter for other specified surgical aftercare( ICD-10-CM: Z48.89 ),Encounter for other postprocedural aftercare,4_other,858,32.0,3.73,2.9,96.74,99.42,0.58,0.0,1.24,1.0,11.19,10.643431238387954
+I35.0,Nonrheumatic aortic (valve) stenosis( ICD-10-CM: I35.0 ),Nonrheumatic aortic valve disorders,4_other,1080,99.0,9.17,7.13,35.74,84.07,1.3,15.93,3.52,1.39,229.6,10.606273938659346
+R35.0,Frequency of micturition( ICD-10-CM: R35.0 ),Polyuria,4_other,5213,192.0,3.68,2.87,53.69,99.0,1.0,0.02,1.41,1.04,41.55,10.46014376589356
+Z96.641,Presence of right artificial hip joint( ICD-10-CM: Z96.641 ),Presence of other functional implants,4_other,1017,36.0,3.54,2.75,90.56,100.0,0.0,0.0,4.07,1.03,124.13,9.976566986727278
+Z79.01,Long term (current) use of anticoagulants( ICD-10-CM: Z79.01 ),Long term,4_other,1527,135.0,8.84,6.88,26.26,99.87,0.13,0.0,14.88,1.05,405.2,9.942017734286164
+Z98.890,Other specified postprocedural states( ICD-10-CM: Z98.890 ),Other postprocedural states,4_other,6636,150.0,2.26,1.76,83.15,99.89,0.11,0.02,3.58,1.01,80.64,9.853181950924837
+L08.9,"Local infection of the skin and subcutaneous tissue, unspecified( ICD-10-CM: L08.9 )",Other local infections of skin and subcutaneous tissue,4_other,1866,62.0,3.32,2.58,83.98,93.46,6.54,0.05,1.54,1.04,18.3,9.848677041181148
+N39.41,Urge incontinence( ICD-10-CM: N39.41 ),Other disorders of urinary system,4_other,398,25.0,6.28,4.89,62.06,100.0,0.0,0.0,1.64,1.01,37.23,9.78649986741523
+Z79.2,Long term (current) use of antibiotics( ICD-10-CM: Z79.2 ),Long term,4_other,381,29.0,7.61,5.92,49.61,100.0,0.0,0.0,1.56,1.01,27.73,9.690213550091421
+J90,"Pleural effusion, not elsewhere classified( ICD-10-CM: J90 )","Pleural effusion, not elsewhere classified",4_other,477,78.0,16.35,12.72,22.64,79.87,18.66,6.08,2.34,1.29,47.65,9.615999578026642
+M79.89,Other specified soft tissue disorders( ICD-10-CM: M79.89 ),"Other and unspecified soft tissue disorders, not elsewhere classified",4_other,3879,175.0,4.51,3.51,45.32,92.55,7.4,0.1,1.66,1.14,31.22,9.585674742695549
+Z17.0,Estrogen receptor positive status (ER+)( ICD-10-CM: Z17.0 ),Estrogen receptor status,4_other,936,39.0,4.17,3.24,73.18,100.0,0.0,0.0,12.45,1.23,486.05,9.5407283907274
+D48.5,Neoplasm of uncertain behavior of skin( ICD-10-CM: D48.5 ),Neoplasm of uncertain behavior of other and unspecified sites,4_other,2935,87.0,2.96,2.31,73.53,100.0,0.0,0.0,1.34,1.0,90.53,9.365467995550596
+R39.9,Unspecified symptoms and signs involving the genitourinary system( ICD-10-CM: R39.9 ),Other and unspecified symptoms and signs involving the genitourinary system,4_other,2807,138.0,4.92,3.82,40.01,100.0,0.0,0.0,1.65,1.01,61.08,9.15432385647986
+Z85.828,Personal history of other malignant neoplasm of skin( ICD-10-CM: Z85.828 ),Personal history of malignant neoplasm,4_other,1798,54.0,3.0,2.34,83.15,99.94,0.06,0.06,1.46,1.0,128.31,9.151929839312446
+C91.10,Chronic lymphocytic leukemia of B-cell type not having achieved remission (Multi HCC)( ICD-10-CM: C91.10 ),Lymphoid leukemia,4_other,267,20.0,7.49,5.83,54.68,98.88,0.75,1.12,10.04,1.26,543.58,9.097930773244181
+M19.012,"Primary osteoarthritis, left shoulder( ICD-10-CM: M19.012 )",Other and unspecified osteoarthritis,4_other,956,43.0,4.5,3.5,63.7,98.64,0.21,1.36,4.95,1.54,130.65,9.055204970272825
+Z85.46,Personal history of malignant neoplasm of prostate( ICD-10-CM: Z85.46 ),Personal history of malignant neoplasm,4_other,582,32.0,5.5,4.28,58.76,100.0,0.0,0.0,2.63,1.03,230.42,9.054081307555258
+H61.23,"Impacted cerumen, bilateral( ICD-10-CM: H61.23 )",Other disorders of external ear,4_other,1282,37.0,2.89,2.25,96.57,98.44,1.56,0.0,1.1,1.01,31.35,8.901940526087035
+T14.8XXA,"Other injury of unspecified body region, initial encounter( ICD-10-CM: T14.8XXA )",Injury of unspecified body region,4_other,2022,58.0,2.87,2.23,83.14,98.52,1.48,0.1,1.32,1.03,12.81,8.857901631590485
+M17.0,Bilateral primary osteoarthritis of knee( ICD-10-CM: M17.0 ),Osteoarthritis of knee,4_other,2253,74.0,3.28,2.56,67.69,96.45,0.18,3.37,4.13,1.08,203.32,8.631305576967128
+N30.01,Acute cystitis with hematuria( ICD-10-CM: N30.01 ),Cystitis,4_other,3039,106.0,3.49,2.71,67.36,80.68,19.22,1.38,1.3,1.04,33.62,8.474831360058792
+M10.9,"Gout, unspecified( ICD-10-CM: M10.9 )",Gout,4_other,847,36.0,4.25,3.31,69.3,93.03,6.97,1.06,1.72,1.08,72.97,8.325540956989789
+R39.15,Urgency of urination( ICD-10-CM: R39.15 ),Other and unspecified symptoms and signs involving the genitourinary system,4_other,1548,62.0,4.01,3.12,56.72,99.16,0.84,0.0,1.34,1.02,33.59,8.324287294797708
+R05.8,Other specified cough( ICD-10-CM: R05.8 ),Cough,4_other,1180,41.0,3.47,2.7,73.98,99.07,0.93,0.0,1.39,1.11,10.9,8.31402191324734
+K74.60,Unspecified cirrhosis of liver (Multi HCC)( ICD-10-CM: K74.60 ),Fibrosis and cirrhosis of liver,4_other,376,36.0,9.57,7.45,36.7,86.44,10.9,9.57,3.37,1.35,221.05,8.131735162604022
+I87.2,Venous insufficiency (chronic) (peripheral)( ICD-10-CM: I87.2 ),Other disorders of veins,4_other,2279,110.0,4.83,3.75,39.01,99.3,0.61,0.22,2.68,1.15,158.84,8.117686869842876
+R05.1,Acute cough( ICD-10-CM: R05.1 ),Cough,4_other,11237,213.0,1.9,1.47,73.28,97.87,2.13,0.0,1.51,1.16,30.12,8.023484635926508
+Z95.2,Presence of prosthetic heart valve( ICD-10-CM: Z95.2 ),Presence of cardiac and vascular implants and grafts,4_other,781,55.0,7.04,5.48,34.83,100.0,0.0,0.0,7.11,1.46,326.62,8.022798723653612
+Z79.4,Long term (current) use of insulin (HCC) (Multi HCC)( ICD-10-CM: Z79.4 ),Long term,4_other,4988,265.0,5.31,4.13,26.82,99.94,0.04,0.02,6.72,1.01,457.73,7.990419907924267
+R32,Unspecified urinary incontinence( ICD-10-CM: R32 ),Unspecified urinary incontinence,4_other,727,39.0,5.36,4.17,50.76,97.25,2.75,0.0,1.58,1.03,29.54,7.98128571429951
+J40,"Bronchitis, not specified as acute or chronic( ICD-10-CM: J40 )","Bronchitis, not specified as acute or chronic",4_other,5111,105.0,2.05,1.6,86.66,94.13,5.87,0.04,1.29,1.04,38.62,7.981222197697946
+R31.0,Gross hematuria( ICD-10-CM: R31.0 ),Hematuria,4_other,1192,65.0,5.45,4.24,43.37,91.61,8.05,1.51,1.97,1.31,40.21,7.782889358135074
+R19.7,"Diarrhea, unspecified( ICD-10-CM: R19.7 )",Other symptoms and signs involving the digestive system and abdomen,4_other,6131,160.0,2.61,2.03,63.11,89.76,10.23,0.11,1.71,1.14,35.4,7.773143997353239
+D50.0,Iron deficiency anemia secondary to blood loss (chronic)( ICD-10-CM: D50.0 ),Iron deficiency anemia,4_other,2222,128.0,5.76,4.48,30.56,97.7,1.89,1.94,4.9,1.28,211.62,7.66797410484699
+E87.1,Hypo-osmolality and hyponatremia( ICD-10-CM: E87.1 ),"Other disorders of fluid, electrolyte and acid-base balance",4_other,1785,159.0,8.91,6.93,22.46,84.87,13.61,9.47,2.02,1.06,78.52,7.661369848430268
+D69.6,"Thrombocytopenia, unspecified( ICD-10-CM: D69.6 )",Purpura and other hemorrhagic conditions,4_other,1319,94.0,7.13,5.54,27.98,97.95,1.9,0.23,2.76,1.05,133.48,7.652616723756575
+K59.04,Chronic idiopathic constipation( ICD-10-CM: K59.04 ),Other functional intestinal disorders,4_other,530,20.0,3.77,2.94,81.51,98.3,1.7,0.57,1.42,1.03,34.81,7.606084756934806
+I95.1,Orthostatic hypotension( ICD-10-CM: I95.1 ),Hypotension,4_other,665,51.0,7.67,5.97,49.47,63.61,35.64,19.4,1.65,1.07,56.82,7.591536166790623
+Z87.81,Personal history of (healed) traumatic fracture( ICD-10-CM: Z87.81 ),Personal history of other diseases and conditions,4_other,294,21.0,7.14,5.56,46.26,99.32,0.68,0.0,2.59,1.04,55.52,7.567365481793724
+K59.09,Other constipation( ICD-10-CM: K59.09 ),Other functional intestinal disorders,4_other,833,31.0,3.72,2.9,73.71,93.76,5.64,0.84,1.36,1.05,30.29,7.56583544169387
+R05.3,Chronic cough( ICD-10-CM: R05.3 ),Cough,4_other,2550,80.0,3.14,2.44,58.12,98.43,1.57,0.0,1.6,1.15,35.21,7.437749111950464
+M17.11,"Unilateral primary osteoarthritis, right knee( ICD-10-CM: M17.11 )",Osteoarthritis of knee,4_other,3171,90.0,2.84,2.21,62.13,95.55,0.5,4.01,5.22,1.21,152.56,7.3524205446675515
+M15.0,Primary generalized (osteo)arthritis( ICD-10-CM: M15.0 ),Polyosteoarthritis,4_other,1148,46.0,4.01,3.12,54.62,100.0,0.0,0.0,2.25,1.0,154.86,7.301832533318581
+I34.0,Nonrheumatic mitral (valve) insufficiency( ICD-10-CM: I34.0 ),Nonrheumatic mitral valve disorders,4_other,750,42.0,5.6,4.36,42.0,99.73,0.27,0.27,1.77,1.18,119.0,7.2224554701830375
+I49.9,"Cardiac arrhythmia, unspecified( ICD-10-CM: I49.9 )",Other cardiac arrhythmias,4_other,590,37.0,6.27,4.88,42.03,94.58,5.25,0.51,1.32,1.07,14.19,7.209183589909547
+R13.10,"Dysphagia, unspecified( ICD-10-CM: R13.10 )",Aphagia and dysphagia,4_other,2566,105.0,4.09,3.18,41.58,96.41,3.51,0.82,1.49,1.17,46.61,7.168244609106775
+I71.40,"Abdominal aortic aneurysm, without rupture, unspecified( ICD-10-CM: I71.40 )",Aortic aneurysm and dissection,4_other,395,40.0,10.13,7.88,26.58,96.46,2.78,1.27,1.95,1.12,132.44,7.160131128799499
+N30.00,Acute cystitis without hematuria( ICD-10-CM: N30.00 ),Cystitis,4_other,3237,145.0,4.48,3.48,50.02,66.82,33.09,3.74,1.28,1.05,32.43,7.156814490194434
+R35.1,Nocturia( ICD-10-CM: R35.1 ),Polyuria,4_other,827,35.0,4.23,3.29,56.11,100.0,0.0,0.0,1.42,1.0,72.64,7.1358031347036945
+G62.9,"Polyneuropathy, unspecified( ICD-10-CM: G62.9 )",Other and unspecified polyneuropathies,4_other,1431,55.0,3.84,2.99,53.53,96.44,3.28,0.49,1.76,1.05,71.99,7.071248458848164
+N32.81,Overactive bladder( ICD-10-CM: N32.81 ),Other disorders of bladder,4_other,538,23.0,4.28,3.33,63.38,99.81,0.19,0.0,1.82,1.04,87.02,7.008684821644734
+Z01.818,Encounter for other preprocedural examination( ICD-10-CM: Z01.818 ),"Encounter for other special examination without complaint, suspected or reported diagnosis",4_other,10454,242.0,2.31,1.8,49.92,99.99,0.0,0.01,1.87,1.14,47.98,6.93827705671232
+R05.2,Subacute cough( ICD-10-CM: R05.2 ),Cough,4_other,1698,49.0,2.89,2.24,69.26,97.11,2.89,0.0,1.46,1.16,9.31,6.899277592960989
+C50.912,Malignant neoplasm of unspecified site of left female breast (Multi HCC)( ICD-10-CM: C50.912 ),Malignant neoplasm of breast,4_other,287,20.0,6.97,5.42,43.9,98.95,1.05,0.35,8.47,1.44,251.99,6.879661702132542
+L03.114,Cellulitis of left upper limb( ICD-10-CM: L03.114 ),Cellulitis and acute lymphangitis,4_other,519,26.0,5.01,3.9,71.1,72.83,26.01,6.74,1.28,1.06,5.03,6.847764732415432
+I47.10,"Supraventricular tachycardia, unspecified (HHS-HCC)( ICD-10-CM: I47.10 )",Paroxysmal tachycardia,4_other,1142,40.0,3.5,2.72,63.57,95.1,4.03,1.58,2.26,1.08,199.23,6.842343191808117
+F51.01,Primary insomnia( ICD-10-CM: F51.01 ),Sleep disorders not due to a substance or known physiological condition,4_other,978,27.0,2.76,2.15,84.56,99.8,0.2,0.0,1.23,1.01,43.74,6.8169085853353595
+D48.9,"Neoplasm of uncertain behavior, unspecified( ICD-10-CM: D48.9 )",Neoplasm of uncertain behavior of other and unspecified sites,4_other,5952,142.0,2.39,1.86,55.44,100.0,0.0,0.0,1.38,1.0,101.99,6.795349751255538
+M05.79,Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement (HCC) (Multi HCC)( ICD-10-CM: M05.79 ),Rheumatoid arthritis with rheumatoid factor,4_other,1014,37.0,3.65,2.84,59.37,99.9,0.0,0.1,8.79,1.19,592.1,6.7828517825127195
+J98.4,Other disorders of lung( ICD-10-CM: J98.4 ),Other respiratory disorders,4_other,314,23.0,7.32,5.7,42.36,92.04,7.96,1.27,1.53,1.12,34.7,6.777728986223122
+R31.9,"Hematuria, unspecified( ICD-10-CM: R31.9 )",Hematuria,4_other,2413,107.0,4.43,3.45,38.33,91.26,8.74,0.12,1.35,1.06,24.65,6.75761801600749
+L98.9,"Disorder of the skin and subcutaneous tissue, unspecified( ICD-10-CM: L98.9 )","Other disorders of skin and subcutaneous tissue, not elsewhere classified",4_other,3791,94.0,2.48,1.93,61.65,97.97,2.03,0.03,1.46,1.01,30.93,6.7337532559683755
+L97.512,Non-pressure chronic ulcer of other part of right foot with fat layer exposed (Multi HCC)( ICD-10-CM: L97.512 ),"Non-pressure chronic ulcer of lower limb, not elsewhere classified",4_other,342,29.0,8.48,6.6,31.29,100.0,0.0,0.0,6.69,1.11,136.62,6.693885158297353
+D47.2,Monoclonal gammopathy( ICD-10-CM: D47.2 ),"Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",4_other,368,26.0,7.07,5.5,37.77,100.0,0.0,0.0,5.77,1.18,389.42,6.666393861133326
+M79.2,"Neuralgia and neuritis, unspecified( ICD-10-CM: M79.2 )","Other and unspecified soft tissue disorders, not elsewhere classified",4_other,562,21.0,3.74,2.91,72.24,96.09,3.91,0.0,1.52,1.05,45.1,6.645398610786128
+R78.81,Bacteremia( ICD-10-CM: R78.81 ),"Findings of drugs and other substances, not normally found in blood",4_other,345,36.0,10.43,8.12,28.7,82.32,13.62,13.04,4.28,1.18,36.95,6.507907127892927
+B02.9,Zoster without complications( ICD-10-CM: B02.9 ),Zoster,4_other,1326,32.0,2.41,1.88,90.42,94.27,5.73,0.08,1.12,1.03,9.11,6.504788074575187
+Z96.642,Presence of left artificial hip joint( ICD-10-CM: Z96.642 ),Presence of other functional implants,4_other,830,22.0,2.65,2.06,89.52,100.0,0.0,0.0,4.21,1.03,142.38,6.493456051716255
+E78.5,"Hyperlipidemia, unspecified( ICD-10-CM: E78.5 )",Disorders of lipoprotein metabolism and other lipidemias,4_other,6326,221.0,3.49,2.72,32.91,99.91,0.08,0.06,1.58,1.01,118.18,6.429288495970558
+M19.011,"Primary osteoarthritis, right shoulder( ICD-10-CM: M19.011 )",Other and unspecified osteoarthritis,4_other,1215,38.0,3.13,2.43,64.53,98.68,0.41,0.99,5.42,1.64,112.0,6.427077413892391
+R14.0,Abdominal distension (gaseous)( ICD-10-CM: R14.0 ),Flatulence and related conditions,4_other,1359,49.0,3.61,2.8,52.76,95.81,4.19,0.07,1.6,1.17,29.31,6.288945587085862
+I47.20,"Ventricular tachycardia, unspecified (Multi HCC)( ICD-10-CM: I47.20 )",Paroxysmal tachycardia,4_other,279,23.0,8.24,6.41,40.86,80.29,13.62,18.64,2.27,1.05,168.62,6.286663361583861
+I49.5,Sick sinus syndrome (HCC) (Multi HCC)( ICD-10-CM: I49.5 ),Other cardiac arrhythmias,4_other,915,85.0,9.29,7.23,19.45,91.8,5.25,7.76,2.26,1.03,208.9,6.0582622283954315
+K62.5,Hemorrhage of anus and rectum( ICD-10-CM: K62.5 ),Other diseases of anus and rectum,4_other,1576,51.0,3.24,2.52,60.85,86.36,13.58,0.82,1.53,1.11,22.78,6.053037020764832
+R41.82,"Altered mental status, unspecified( ICD-10-CM: R41.82 )",Other symptoms and signs involving cognitive functions and awareness,4_other,603,71.0,11.77,9.16,30.35,50.91,47.93,6.8,1.28,1.07,16.97,6.023441907959579
+R05.9,"Cough, unspecified( ICD-10-CM: R05.9 )",Cough,4_other,7068,155.0,2.19,1.71,57.05,90.29,9.69,0.03,1.45,1.1,25.96,6.015788001757625
+C44.90,"Unspecified malignant neoplasm of skin, unspecified( ICD-10-CM: C44.90 )",Other and unspecified malignant neoplasm of skin,4_other,1132,40.0,3.53,2.75,52.3,99.91,0.09,0.0,1.69,1.0,51.74,5.9718528635513195
+L21.9,"Seborrheic dermatitis, unspecified( ICD-10-CM: L21.9 )",Seborrheic dermatitis,4_other,1104,31.0,2.81,2.18,69.66,99.91,0.09,0.0,1.17,1.0,43.61,5.964460507432523
+E53.8,Deficiency of other specified B group vitamins( ICD-10-CM: E53.8 ),Deficiency of other b group vitamins,4_other,1252,68.0,5.43,4.23,29.95,99.52,0.32,0.4,2.36,1.01,98.65,5.918211398577001
+G47.33,Obstructive sleep apnea (adult) (pediatric)( ICD-10-CM: G47.33 ),Sleep disorders,4_other,11420,208.0,1.82,1.42,54.54,99.96,0.03,0.02,2.3,1.24,309.8,5.877139471282282
+J22,Unspecified acute lower respiratory infection( ICD-10-CM: J22 ),Unspecified acute lower respiratory infection,4_other,1985,36.0,1.81,1.41,95.11,99.5,0.4,0.25,1.18,1.03,11.91,5.857250381554006
+M17.12,"Unilateral primary osteoarthritis, left knee( ICD-10-CM: M17.12 )",Osteoarthritis of knee,4_other,2912,70.0,2.4,1.87,61.88,95.84,0.52,3.71,5.18,1.22,138.44,5.851625374188902
+E78.2,Mixed hyperlipidemia( ICD-10-CM: E78.2 ),Disorders of lipoprotein metabolism and other lipidemias,4_other,16079,399.0,2.48,1.93,34.37,99.99,0.01,0.0,2.05,1.02,203.45,5.829542247513469
+E03.9,"Hypothyroidism, unspecified( ICD-10-CM: E03.9 )",Other hypothyroidism,4_other,11621,417.0,3.59,2.79,24.38,99.7,0.28,0.08,2.86,1.02,247.47,5.801975861709749
+D50.9,"Iron deficiency anemia, unspecified( ICD-10-CM: D50.9 )",Iron deficiency anemia,4_other,3198,143.0,4.47,3.48,27.77,97.15,2.44,1.72,2.4,1.13,91.83,5.753325722796129
+Z95.810,Presence of automatic (implantable) cardiac defibrillator( ICD-10-CM: Z95.810 ),Presence of cardiac and vascular implants and grafts,4_other,681,61.0,8.96,6.97,19.53,99.85,0.15,0.0,2.57,1.01,322.85,5.715821044415932
+E87.5,Hyperkalemia( ICD-10-CM: E87.5 ),"Other disorders of fluid, electrolyte and acid-base balance",4_other,1510,142.0,9.4,7.32,14.83,91.72,6.62,5.36,1.48,1.02,41.01,5.529790852090956
+R68.89,Other general symptoms and signs( ICD-10-CM: R68.89 ),Other general symptoms and signs,4_other,1320,33.0,2.5,1.94,68.94,99.47,0.53,0.0,1.46,1.02,12.58,5.430705673193497
+L30.9,"Dermatitis, unspecified( ICD-10-CM: L30.9 )",Other and unspecified dermatitis,4_other,3123,53.0,1.7,1.32,81.33,98.08,1.92,0.03,1.55,1.02,37.81,5.298769390198675
+L29.9,"Pruritus, unspecified( ICD-10-CM: L29.9 )",Pruritus,4_other,1032,33.0,3.2,2.49,60.56,88.76,11.24,0.0,2.76,1.03,42.31,5.278413948246418
+E78.49,Other hyperlipidemia( ICD-10-CM: E78.49 ),Disorders of lipoprotein metabolism and other lipidemias,4_other,372,20.0,5.38,4.18,41.13,100.0,0.0,0.0,1.6,1.01,102.06,5.245755216091119
+L03.113,Cellulitis of right upper limb( ICD-10-CM: L03.113 ),Cellulitis and acute lymphangitis,4_other,508,20.0,3.94,3.06,71.26,75.0,25.0,6.1,1.48,1.07,7.17,5.245625121911235
+Z23,Encounter for immunization( ICD-10-CM: Z23 ),Encounter for immunization,4_other,4995,81.0,1.62,1.26,71.47,99.82,0.18,0.0,1.08,1.0,24.2,5.211674257283468
+G47.00,"Insomnia, unspecified( ICD-10-CM: G47.00 )",Sleep disorders,4_other,891,25.0,2.81,2.18,69.47,94.28,5.61,0.11,1.22,1.02,30.35,5.211308991983497
+M06.09,"Rheumatoid arthritis without rheumatoid factor, multiple sites (HCC) (Multi HCC)( ICD-10-CM: M06.09 )",Other rheumatoid arthritis,4_other,674,22.0,3.26,2.54,60.09,99.85,0.15,0.0,10.82,1.29,602.88,5.202539795203587
+Z48.02,Encounter for removal of sutures( ICD-10-CM: Z48.02 ),Encounter for other postprocedural aftercare,4_other,2094,51.0,2.44,1.89,75.5,75.98,24.02,0.0,1.04,1.01,6.27,5.145798940469906
+M54.42,"Lumbago with sciatica, left side( ICD-10-CM: M54.42 )",Dorsalgia,4_other,3348,72.0,2.15,1.67,62.37,90.86,9.11,0.24,2.43,1.17,58.61,5.1091290788049015
+Z76.89,Persons encountering health services in other specified circumstances( ICD-10-CM: Z76.89 ),Persons encountering health services in other circumstances,4_other,8006,86.0,1.07,0.84,97.01,99.94,0.06,0.0,1.17,1.0,8.63,5.041889294126429
+N17.9,"Acute kidney failure, unspecified( ICD-10-CM: N17.9 )",Acute kidney failure,4_other,1831,181.0,9.89,7.69,19.88,55.32,38.72,30.09,1.64,1.06,35.06,5.038912961889498
+L57.8,Other skin changes due to chronic exposure to nonionizing radiation( ICD-10-CM: L57.8 ),Skin changes due to chronic exposure to nonionizing radiation,4_other,943,20.0,2.12,1.65,86.32,100.0,0.0,0.0,1.26,1.0,70.58,5.014014168070397
+L03.032,Cellulitis of left toe( ICD-10-CM: L03.032 ),Cellulitis and acute lymphangitis,4_other,992,22.0,2.22,1.73,83.37,96.17,3.73,0.3,1.51,1.03,36.31,5.012012396161913
+J20.9,"Acute bronchitis, unspecified( ICD-10-CM: J20.9 )",Acute bronchitis,4_other,2165,38.0,1.76,1.37,86.93,92.7,7.3,1.02,1.16,1.05,13.95,4.955711034606254
+U07.1,COVID-19( ICD-10-CM: U07.1 ),COVID-19,4_other,10004,295.0,2.95,2.29,38.61,70.42,28.92,6.86,1.27,1.08,23.01,4.950524990717132
+K21.9,Gastro-esophageal reflux disease without esophagitis( ICD-10-CM: K21.9 ),Gastro-esophageal reflux disease,4_other,6131,97.0,1.58,1.23,67.05,96.88,2.87,0.42,1.4,1.07,51.5,4.913936920215214
+F41.9,"Anxiety disorder, unspecified( ICD-10-CM: F41.9 )",Other anxiety disorders,4_other,6098,91.0,1.49,1.16,74.52,93.56,6.43,0.15,1.5,1.01,71.88,4.90961480936735
+R59.0,Localized enlarged lymph nodes( ICD-10-CM: R59.0 ),Enlarged lymph nodes,4_other,1707,55.0,3.22,2.51,43.88,94.26,5.45,0.47,1.62,1.2,35.37,4.870552822850388
+B35.1,Tinea unguium( ICD-10-CM: B35.1 ),Dermatophytosis,4_other,1593,34.0,2.13,1.66,68.93,99.5,0.5,0.0,1.42,1.01,50.4,4.797397041480475
+D18.01,Hemangioma of skin and subcutaneous tissue( ICD-10-CM: D18.01 ),"Hemangioma and lymphangioma, any site",4_other,1277,26.0,2.04,1.58,76.9,99.92,0.08,0.0,1.64,1.0,198.38,4.700254629393942
+M70.62,"Trochanteric bursitis, left hip( ICD-10-CM: M70.62 )","Soft tissue disorders related to use, overuse and pressure",4_other,775,22.0,2.84,2.21,61.16,98.97,0.77,0.65,2.73,1.05,126.77,4.662964386108036
+I95.9,"Hypotension, unspecified( ICD-10-CM: I95.9 )",Hypotension,4_other,436,31.0,7.11,5.53,42.89,57.34,41.74,13.76,1.3,1.08,14.73,4.648810834507472
+R21,Rash and other nonspecific skin eruption( ICD-10-CM: R21 ),Rash and other nonspecific skin eruption,4_other,6364,89.0,1.4,1.09,79.86,87.68,12.32,0.02,1.22,1.03,22.26,4.635696939117869
+Z90.49,Acquired absence of other specified parts of digestive tract( ICD-10-CM: Z90.49 ),"Acquired absence of organs, not elsewhere classified",4_other,1970,29.0,1.47,1.15,95.99,100.0,0.0,0.0,1.22,1.02,8.79,4.632084533093745
+Z91.89,"Other specified personal risk factors, not elsewhere classified( ICD-10-CM: Z91.89 )","Personal risk factors, not elsewhere classified",4_other,979,28.0,2.86,2.22,54.95,100.0,0.0,0.0,1.14,1.01,11.24,4.617783287776649
+R22.1,"Localized swelling, mass and lump, neck( ICD-10-CM: R22.1 )","Localized swelling, mass and lump of skin and subcutaneous tissue",4_other,1060,32.0,3.02,2.35,50.0,97.83,2.17,0.0,1.51,1.16,23.11,4.5220923189359405
+R11.0,Nausea( ICD-10-CM: R11.0 ),Nausea and vomiting,4_other,2325,46.0,1.98,1.54,68.43,90.19,9.81,0.0,1.34,1.06,22.4,4.477265519757444
+Z72.0,Tobacco use( ICD-10-CM: Z72.0 ),Problems related to lifestyle,4_other,661,20.0,3.03,2.35,56.43,100.0,0.0,0.0,1.23,1.02,37.87,4.42962769481404
+R09.89,Other specified symptoms and signs involving the circulatory and respiratory systems( ICD-10-CM: R09.89 ),Other symptoms and signs involving the circulatory and respiratory system,4_other,1583,60.0,3.79,2.95,32.66,95.33,4.61,0.13,1.26,1.07,12.53,4.34138015461147
+Z51.81,Encounter for therapeutic drug level monitoring( ICD-10-CM: Z51.81 ),Encounter for other aftercare and medical care,4_other,2164,97.0,4.48,3.49,22.87,99.95,0.05,0.0,2.78,1.01,122.97,4.322336204670945
+I35.1,Nonrheumatic aortic (valve) insufficiency( ICD-10-CM: I35.1 ),Nonrheumatic aortic valve disorders,4_other,515,23.0,4.47,3.47,37.48,99.61,0.0,0.39,1.76,1.18,139.47,4.280900226239495
+I71.43,"Infrarenal abdominal aortic aneurysm, without rupture( ICD-10-CM: I71.43 )",Aortic aneurysm and dissection,4_other,468,32.0,6.84,5.32,26.92,85.68,1.5,13.68,3.0,1.27,191.5,4.269563027644559
+E87.6,Hypokalemia( ICD-10-CM: E87.6 ),"Other disorders of fluid, electrolyte and acid-base balance",4_other,3024,190.0,6.28,4.89,15.77,86.34,13.46,2.91,1.73,1.05,68.83,4.267716612114376
+Z78.9,Other specified health status( ICD-10-CM: Z78.9 ),Other specified health status,4_other,1153,49.0,4.25,3.31,29.75,99.74,0.26,0.17,1.78,1.01,42.19,4.265492645549394
+M62.838,Other muscle spasm( ICD-10-CM: M62.838 ),Other disorders of muscle,4_other,1033,23.0,2.23,1.73,76.77,86.93,13.07,0.0,1.25,1.02,15.61,4.23327263625813
+J01.00,"Acute maxillary sinusitis, unspecified( ICD-10-CM: J01.00 )",Acute sinusitis,4_other,4945,53.0,1.07,0.83,94.74,98.73,1.25,0.06,1.14,1.02,35.34,4.12936752655922
+H25.813,"Combined forms of age-related cataract, bilateral( ICD-10-CM: H25.813 )",Age-related cataract,4_other,964,28.0,2.9,2.26,47.93,100.0,0.0,0.0,1.42,1.07,90.09,4.0913372788150735
+L82.1,Other seborrheic keratosis( ICD-10-CM: L82.1 ),Seborrheic keratosis,4_other,1431,27.0,1.89,1.47,68.55,100.0,0.0,0.0,1.12,1.0,40.6,3.993191480671886
+Z96.651,Presence of right artificial knee joint( ICD-10-CM: Z96.651 ),Presence of other functional implants,4_other,1849,29.0,1.57,1.22,78.42,100.0,0.0,0.0,7.05,1.02,138.3,3.981223026462338
+K92.1,Melena( ICD-10-CM: K92.1 ),Other diseases of digestive system,4_other,1767,51.0,2.89,2.25,48.44,78.32,20.77,4.87,1.5,1.12,21.78,3.9619534740851705
+I77.810,Thoracic aortic ectasia (HCC)( ICD-10-CM: I77.810 ),Other disorders of arteries and arterioles,4_other,922,35.0,3.8,2.95,34.16,99.89,0.11,0.0,1.75,1.21,148.14,3.9532255497159916
+D62,Acute posthemorrhagic anemia( ICD-10-CM: D62 ),Acute posthemorrhagic anemia,4_other,380,34.0,8.95,6.96,23.95,68.42,24.21,29.47,1.61,1.06,24.8,3.885288380422089
+M48.061,"Spinal stenosis, lumbar region without neurogenic claudication( ICD-10-CM: M48.061 )",Other spondylopathies,4_other,1443,50.0,3.47,2.7,35.34,89.95,5.68,7.97,1.88,1.15,60.78,3.860899608193136
+K59.00,"Constipation, unspecified( ICD-10-CM: K59.00 )",Other functional intestinal disorders,4_other,3227,89.0,2.76,2.15,48.93,65.23,34.65,0.77,1.35,1.1,28.78,3.8455367675492256
+F33.1,"Major depressive disorder, recurrent, moderate (CMS-HCC)( ICD-10-CM: F33.1 )","Major depressive disorder, recurrent",4_other,1846,33.0,1.79,1.39,69.45,93.07,1.73,6.66,1.7,1.0,82.98,3.8375703750648245
+E78.00,"Pure hypercholesterolemia, unspecified( ICD-10-CM: E78.00 )",Disorders of lipoprotein metabolism and other lipidemias,4_other,4695,139.0,2.96,2.3,25.79,99.98,0.0,0.02,1.94,1.02,197.19,3.7865884470274866
+R29.898,Other symptoms and signs involving the musculoskeletal system( ICD-10-CM: R29.898 ),Other symptoms and signs involving the nervous and musculoskeletal systems,4_other,1579,64.0,4.05,3.15,26.47,93.48,6.52,0.25,3.7,1.1,40.95,3.7311165158046706
+Z01.810,Encounter for preprocedural cardiovascular examination( ICD-10-CM: Z01.810 ),"Encounter for other special examination without complaint, suspected or reported diagnosis",4_other,2429,78.0,3.21,2.5,28.28,100.0,0.0,0.0,1.2,1.09,19.11,3.7252535035177012
+K40.90,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent( ICD-10-CM: K40.90 )",Inguinal hernia,4_other,990,33.0,3.33,2.59,41.21,88.99,10.71,0.51,2.18,1.61,42.19,3.723621928274363
+J06.9,"Acute upper respiratory infection, unspecified( ICD-10-CM: J06.9 )",Acute upper respiratory infections of multiple and unspecified sites,4_other,28875,199.0,0.69,0.54,88.15,93.49,6.5,0.03,1.47,1.08,78.6,3.6845708991292585
+E66.9,"Obesity, unspecified( ICD-10-CM: E66.9 )",Overweight and obesity,4_other,3008,82.0,2.73,2.12,31.18,99.97,0.03,0.0,4.99,1.01,329.3,3.612521316837746
+M16.11,"Unilateral primary osteoarthritis, right hip( ICD-10-CM: M16.11 )",Osteoarthritis of hip,4_other,1158,27.0,2.33,1.81,53.89,95.68,1.04,3.37,3.37,1.33,106.8,3.591503699521007
+K92.2,"Gastrointestinal hemorrhage, unspecified( ICD-10-CM: K92.2 )",Other diseases of digestive system,4_other,359,28.0,7.8,6.07,30.92,58.77,38.16,18.94,1.57,1.08,23.24,3.5785062783118775
+E03.4,Atrophy of thyroid (acquired)( ICD-10-CM: E03.4 ),Other hypothyroidism,4_other,871,36.0,4.13,3.22,28.24,100.0,0.0,0.0,2.23,1.0,196.67,3.5622246083691707
+Z51.12,Encounter for antineoplastic immunotherapy( ICD-10-CM: Z51.12 ),Encounter for other aftercare and medical care,4_other,389,67.0,17.22,13.4,6.68,100.0,0.0,0.0,6.54,1.0,201.47,3.5136762950822913
+N95.0,Postmenopausal bleeding( ICD-10-CM: N95.0 ),Menopausal and other perimenopausal disorders,4_other,815,21.0,2.58,2.0,51.41,98.16,1.47,0.61,2.14,1.27,40.93,3.511884654390224
+M54.9,"Dorsalgia, unspecified( ICD-10-CM: M54.9 )",Dorsalgia,4_other,1838,40.0,2.18,1.69,52.12,89.45,10.55,0.38,1.76,1.09,19.98,3.498296929974528
+I44.2,"Atrioventricular block, complete (HCC) (Multi HCC)( ICD-10-CM: I44.2 )",Atrioventricular and left bundle-branch block,4_other,420,39.0,9.29,7.22,16.43,78.57,13.57,20.95,2.59,1.07,264.5,3.3188430274169933
+N40.0,Benign prostatic hyperplasia without lower urinary tract symptoms( ICD-10-CM: N40.0 ),Benign prostatic hyperplasia,4_other,698,21.0,3.01,2.34,42.26,97.56,2.44,0.14,1.44,1.02,81.94,3.2804999884666652
+Z96.652,Presence of left artificial knee joint( ICD-10-CM: Z96.652 ),Presence of other functional implants,4_other,1760,24.0,1.36,1.06,76.93,100.0,0.0,0.0,7.42,1.02,147.99,3.245002630344098
+E55.9,"Vitamin D deficiency, unspecified( ICD-10-CM: E55.9 )",Vitamin D deficiency,4_other,5845,151.0,2.58,2.01,24.04,99.98,0.02,0.02,1.44,1.01,76.0,3.213350279743733
+J32.9,"Chronic sinusitis, unspecified( ICD-10-CM: J32.9 )",Chronic sinusitis,4_other,2640,31.0,1.17,0.91,80.19,98.45,1.55,0.0,1.19,1.02,34.16,3.173084037495812
+M48.062,"Spinal stenosis, lumbar region with neurogenic claudication( ICD-10-CM: M48.062 )",Other spondylopathies,4_other,895,37.0,4.13,3.22,26.82,92.63,1.79,6.93,1.88,1.13,57.55,3.1638631853335015
+R56.9,Unspecified convulsions (Multi HCC)( ICD-10-CM: R56.9 ),"Convulsions, not elsewhere classified",4_other,2049,61.0,2.98,2.32,35.43,77.84,20.3,7.37,2.25,1.18,149.02,3.1399768637929037
+D50.8,Other iron deficiency anemias( ICD-10-CM: D50.8 ),Iron deficiency anemia,4_other,1520,51.0,3.36,2.61,26.38,99.34,0.46,0.46,2.72,1.14,118.68,3.1111092574516315
+I49.3,Ventricular premature depolarization( ICD-10-CM: I49.3 ),Other cardiac arrhythmias,4_other,1448,32.0,2.21,1.72,46.27,95.1,4.56,0.69,2.54,1.2,193.99,3.1094735219736176
+M54.2,Cervicalgia( ICD-10-CM: M54.2 ),Dorsalgia,4_other,5858,103.0,1.76,1.37,41.82,87.11,12.87,0.12,2.35,1.16,43.7,3.0891252601907606
+R04.0,Epistaxis( ICD-10-CM: R04.0 ),Hemorrhage from respiratory passages,4_other,1219,43.0,3.53,2.74,42.82,60.71,39.05,1.97,1.31,1.11,21.01,3.0356359603834755
+E83.42,Hypomagnesemia( ICD-10-CM: E83.42 ),Disorders of mineral metabolism,4_other,399,28.0,7.02,5.46,23.31,71.93,27.57,5.26,2.42,1.1,69.28,3.0217583335338096
+G45.9,"Transient cerebral ischemic attack, unspecified( ICD-10-CM: G45.9 )",Transient cerebral ischemic attacks and related syndromes,4_other,919,45.0,4.9,3.81,29.27,65.51,31.56,28.4,2.02,1.18,50.08,3.018917498130513
+F32.A,"Depression, unspecified( ICD-10-CM: F32.A )","Major depressive disorder, single episode",4_other,3288,44.0,1.34,1.04,68.92,86.07,11.92,2.62,1.47,1.01,60.12,3.008110499176769
+R11.2,"Nausea with vomiting, unspecified( ICD-10-CM: R11.2 )",Nausea and vomiting,4_other,5296,99.0,1.87,1.45,53.27,62.82,37.12,0.98,1.37,1.1,34.56,2.94591158150258
+C44.92,"Squamous cell carcinoma of skin, unspecified( ICD-10-CM: C44.92 )",Other and unspecified malignant neoplasm of skin,4_other,325,23.0,7.08,5.51,17.23,100.0,0.0,0.0,1.92,1.03,44.43,2.912156668334975
+Z98.1,Arthrodesis status( ICD-10-CM: Z98.1 ),Other postprocedural states,4_other,1113,23.0,2.07,1.61,47.62,100.0,0.0,0.0,5.36,1.1,191.17,2.84104391791529
+I87.323,Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity( ICD-10-CM: I87.323 ),Other disorders of veins,4_other,919,27.0,2.94,2.29,33.3,100.0,0.0,0.0,1.84,1.13,86.04,2.8394735384952305
+R73.9,"Hyperglycemia, unspecified( ICD-10-CM: R73.9 )",Elevated blood glucose level,4_other,1864,56.0,3.0,2.34,26.77,94.47,5.53,0.11,1.36,1.01,59.81,2.8192014385001833
+Z74.2,Need for assistance at home and no other household member able to render care( ICD-10-CM: Z74.2 ),Problems related to care provider dependency,4_other,279,63.0,22.58,17.57,4.3,100.0,0.0,0.0,1.63,1.0,86.07,2.7714809753853378
+E83.51,Hypocalcemia( ICD-10-CM: E83.51 ),Disorders of mineral metabolism,4_other,351,24.0,6.84,5.32,18.23,91.17,7.98,5.98,2.36,1.06,71.31,2.7705636414449124
+M81.0,Age-related osteoporosis without current pathological fracture( ICD-10-CM: M81.0 ),Osteoporosis without current pathological fracture,4_other,4759,184.0,3.87,3.01,13.66,100.0,0.0,0.0,3.96,1.31,323.72,2.7681380544322396
+J01.90,"Acute sinusitis, unspecified( ICD-10-CM: J01.90 )",Acute sinusitis,4_other,3723,31.0,0.83,0.65,93.23,97.26,2.74,0.0,1.12,1.02,30.26,2.7163639712095353
+Z12.5,Encounter for screening for malignant neoplasm of prostate( ICD-10-CM: Z12.5 ),Encounter for screening for malignant neoplasms,4_other,1779,46.0,2.59,2.01,29.51,100.0,0.0,0.0,1.16,1.0,49.56,2.698208050802503
+N28.89,Other specified disorders of kidney and ureter( ICD-10-CM: N28.89 ),"Other disorders of kidney and ureter, not elsewhere classified",4_other,714,33.0,4.62,3.6,20.45,96.08,3.36,0.84,2.14,1.3,110.1,2.643357352405708
+K04.7,Periapical abscess without sinus( ICD-10-CM: K04.7 ),Diseases of pulp and periapical tissues,4_other,1967,31.0,1.58,1.23,70.46,71.58,28.37,0.86,1.19,1.05,31.78,2.6381147421001607
+K52.9,"Noninfective gastroenteritis and colitis, unspecified( ICD-10-CM: K52.9 )",Other and unspecified noninfective gastroenteritis and colitis,4_other,3375,50.0,1.48,1.15,60.71,71.32,28.15,4.0,1.3,1.06,23.78,2.500048880105801
+M54.16,"Radiculopathy, lumbar region( ICD-10-CM: M54.16 )",Dorsalgia,4_other,8239,219.0,2.66,2.07,16.62,97.92,2.01,0.27,3.68,1.29,160.19,2.4907587807198857
+I26.99,Other pulmonary embolism without acute cor pulmonale (Multi HCC)( ICD-10-CM: I26.99 ),Pulmonary embolism,4_other,628,32.0,5.1,3.96,29.94,55.73,38.69,36.46,3.41,1.14,101.98,2.4066688359072823
+M54.41,"Lumbago with sciatica, right side( ICD-10-CM: M54.41 )",Dorsalgia,4_other,2260,35.0,1.55,1.2,54.29,82.52,17.43,0.35,2.12,1.17,45.47,2.3861859060901547
+G40.909,"Epilepsy, unspecified, not intractable, without status epilepticus (Multi HCC)( ICD-10-CM: G40.909 )",Epilepsy and recurrent seizures,4_other,1220,50.0,4.1,3.19,31.48,52.79,44.67,13.2,2.42,1.14,178.56,2.3301340060225733
+R80.9,"Proteinuria, unspecified( ICD-10-CM: R80.9 )",Proteinuria,4_other,924,27.0,2.92,2.27,27.49,99.68,0.32,0.11,2.91,1.01,209.81,2.3179694583405146
+J69.0,Pneumonitis due to inhalation of food and vomit (HCC) (Multi HCC)( ICD-10-CM: J69.0 ),Pneumonitis due to solids and liquids,4_other,232,44.0,18.97,14.75,17.67,26.72,65.95,68.53,1.29,1.06,25.68,2.300775458208483
+R20.0,Anesthesia of skin( ICD-10-CM: R20.0 ),Disturbances of skin sensation,4_other,3376,54.0,1.6,1.24,39.16,92.06,7.88,0.56,1.84,1.1,38.09,2.279935381548019
+E03.8,Other specified hypothyroidism( ICD-10-CM: E03.8 ),Other hypothyroidism,4_other,1382,42.0,3.04,2.36,22.07,99.86,0.14,0.07,1.76,1.01,104.96,2.244640088891879
+D22.9,"Melanocytic nevi, unspecified( ICD-10-CM: D22.9 )",Melanocytic nevi,4_other,4859,56.0,1.15,0.9,46.33,100.0,0.0,0.0,1.18,1.0,53.32,2.2381143884564993
+M53.3,"Sacrococcygeal disorders, not elsewhere classified( ICD-10-CM: M53.3 )","Other and unspecified dorsopathies, not elsewhere classified",4_other,2075,50.0,2.41,1.87,25.64,97.25,2.51,0.34,2.99,1.15,108.21,2.2015525383721446
+R51.9,"Headache, unspecified( ICD-10-CM: R51.9 )",Headache,4_other,5622,82.0,1.46,1.13,48.84,67.32,32.57,0.6,1.44,1.15,35.85,2.1892268199050675
+F41.1,Generalized anxiety disorder( ICD-10-CM: F41.1 ),Other anxiety disorders,4_other,3558,35.0,0.98,0.77,68.38,86.96,12.79,0.59,1.6,1.02,79.37,2.151210566976369
+M48.02,"Spinal stenosis, cervical region( ICD-10-CM: M48.02 )",Other spondylopathies,4_other,1015,30.0,2.96,2.3,27.59,85.52,6.7,12.61,2.37,1.22,74.53,2.094049365683745
+N89.8,Other specified noninflammatory disorders of vagina( ICD-10-CM: N89.8 ),Other noninflammatory disorders of vagina,4_other,5392,42.0,0.78,0.61,68.34,97.22,2.74,0.04,1.87,1.05,74.55,2.076704528442164
+I51.7,Cardiomegaly( ICD-10-CM: I51.7 ),Complications and ill-defined descriptions of heart disease,4_other,568,20.0,3.52,2.74,22.89,97.89,2.11,0.35,1.32,1.1,35.49,2.003794341349415
+D72.829,"Elevated white blood cell count, unspecified( ICD-10-CM: D72.829 )",Other disorders of white blood cells,4_other,1727,58.0,3.36,2.61,16.04,97.8,2.2,0.12,1.71,1.02,55.19,1.9446344956611528
+M54.12,"Radiculopathy, cervical region( ICD-10-CM: M54.12 )",Dorsalgia,4_other,3415,64.0,1.87,1.46,24.42,97.01,2.93,0.15,3.22,1.29,98.95,1.828166999123652
+M79.18,"Myalgia, other site( ICD-10-CM: M79.18 )","Other and unspecified soft tissue disorders, not elsewhere classified",4_other,2022,50.0,2.47,1.92,21.46,92.19,7.81,0.1,3.99,1.07,199.83,1.787429543587608
+M54.14,"Radiculopathy, thoracic region( ICD-10-CM: M54.14 )",Dorsalgia,4_other,412,24.0,5.83,4.53,12.38,98.79,1.21,0.0,2.36,1.13,69.39,1.782025194714301
+R50.9,"Fever, unspecified( ICD-10-CM: R50.9 )",Fever of other and unknown origin,4_other,7241,49.0,0.68,0.53,71.07,86.42,13.4,0.4,1.43,1.1,36.41,1.7802490981390857
+S01.81XA,"Laceration without foreign body of other part of head, initial encounter( ICD-10-CM: S01.81XA )",Open wound of head,4_other,1066,32.0,3.0,2.34,43.43,43.71,56.1,1.31,1.05,1.02,5.64,1.7488960963907596
+S01.01XA,"Laceration without foreign body of scalp, initial encounter( ICD-10-CM: S01.01XA )",Open wound of head,4_other,995,59.0,5.93,4.61,28.94,28.94,70.95,2.61,1.03,1.01,3.56,1.7051742528532594
+R09.81,Nasal congestion( ICD-10-CM: R09.81 ),Other symptoms and signs involving the circulatory and respiratory system,4_other,4351,29.0,0.67,0.52,76.33,90.85,9.15,0.0,1.33,1.06,20.09,1.6705263710770364
+I16.0,Hypertensive urgency( ICD-10-CM: I16.0 ),Hypertensive crisis,4_other,335,23.0,6.87,5.34,27.76,36.12,55.82,51.64,1.3,1.05,33.18,1.650737021003485
+R20.2,Paresthesia of skin( ICD-10-CM: R20.2 ),Disturbances of skin sensation,4_other,1866,29.0,1.55,1.21,38.0,85.85,14.09,0.32,1.52,1.09,26.32,1.644613941285982
+S09.90XA,"Unspecified injury of head, initial encounter( ICD-10-CM: S09.90XA )",Other and unspecified injuries of head,4_other,2477,75.0,3.03,2.36,33.95,38.03,61.89,0.52,1.1,1.06,10.76,1.5970585783719622
+L97.912,Non-pressure chronic ulcer of unspecified part of right lower leg with fat layer exposed (Multi HCC)( ICD-10-CM: L97.912 ),"Non-pressure chronic ulcer of lower limb, not elsewhere classified",4_other,232,21.0,9.05,7.04,7.76,100.0,0.0,0.0,4.32,1.03,85.35,1.5537457945684068
+E04.1,Nontoxic single thyroid nodule( ICD-10-CM: E04.1 ),Other nontoxic goiter,4_other,2329,57.0,2.45,1.9,16.49,99.44,0.56,0.0,1.89,1.12,119.03,1.5333765945504094
+N28.1,"Cyst of kidney, acquired( ICD-10-CM: N28.1 )","Other disorders of kidney and ureter, not elsewhere classified",4_other,651,25.0,3.84,2.99,15.05,96.01,3.99,0.0,1.47,1.13,65.98,1.5050839099337598
+R31.29,Other microscopic hematuria( ICD-10-CM: R31.29 ),Hematuria,4_other,1280,32.0,2.5,1.94,19.06,98.13,1.88,0.08,1.76,1.22,48.0,1.46569755977444
+L97.922,Non-pressure chronic ulcer of unspecified part of left lower leg with fat layer exposed (Multi HCC)( ICD-10-CM: L97.922 ),"Non-pressure chronic ulcer of lower limb, not elsewhere classified",4_other,256,20.0,7.81,6.08,7.81,100.0,0.0,0.0,4.43,1.02,90.96,1.3606652458905106
+J02.9,"Acute pharyngitis, unspecified( ICD-10-CM: J02.9 )",Acute pharyngitis,4_other,25146,79.0,0.31,0.24,85.39,96.4,3.6,0.02,1.55,1.06,86.0,1.3558136752518966
+N20.0,Calculus of kidney( ICD-10-CM: N20.0 ),Calculus of kidney and ureter,4_other,2167,34.0,1.57,1.22,29.58,85.19,14.63,0.65,2.7,1.37,113.97,1.3491546087832011
+N28.9,"Disorder of kidney and ureter, unspecified( ICD-10-CM: N28.9 )","Other disorders of kidney and ureter, not elsewhere classified",4_other,1388,67.0,4.83,3.76,7.35,98.85,1.08,0.07,1.29,1.02,29.73,1.296842392337015
+M47.816,"Spondylosis without myelopathy or radiculopathy, lumbar region( ICD-10-CM: M47.816 )",Spondylosis,4_other,1721,41.0,2.38,1.85,14.93,99.3,0.64,0.52,2.79,1.1,114.82,1.2132939140777204
+Z45.02,Encounter for adjustment and management of automatic implantable cardiac defibrillator( ICD-10-CM: Z45.02 ),Encounter for adjustment and management of implanted device,4_other,269,28.0,10.41,8.1,4.83,96.65,1.12,2.97,1.29,1.03,67.4,1.1687127103165078
+J10.1,Influenza due to other identified influenza virus with other respiratory manifestations( ICD-10-CM: J10.1 ),Influenza due to other identified influenza virus,4_other,2200,31.0,1.41,1.1,46.14,47.5,52.0,3.05,1.07,1.03,4.46,1.040272819024735
+B34.9,"Viral infection, unspecified( ICD-10-CM: B34.9 )",Viral infection of unspecified site,4_other,6496,25.0,0.38,0.3,83.61,87.87,12.04,0.18,1.22,1.04,24.08,1.038195402079328
+E61.1,Iron deficiency( ICD-10-CM: E61.1 ),Deficiency of other nutrient elements,4_other,1684,28.0,1.66,1.29,19.24,99.94,0.06,0.0,1.81,1.08,79.18,1.0122274449150066
+Z01.812,Encounter for preprocedural laboratory examination( ICD-10-CM: Z01.812 ),"Encounter for other special examination without complaint, suspected or reported diagnosis",4_other,2363,54.0,2.29,1.78,11.3,99.96,0.04,0.0,1.1,1.02,10.4,0.9805907481087296
+ERRENC10,zzdonotuse errenc( ICD-10-CM: ERRENC10 ),zzdonotuse errenc,4_other,3362,84.0,2.5,1.94,8.63,100.0,0.0,0.0,1.22,1.01,19.74,0.9323360468514349
+E83.52,Hypercalcemia( ICD-10-CM: E83.52 ),Disorders of mineral metabolism,4_other,683,20.0,2.93,2.28,12.3,96.05,3.37,3.37,2.23,1.06,70.67,0.9042195950360647
+E86.0,Dehydration( ICD-10-CM: E86.0 ),Volume depletion,4_other,872,50.0,5.73,4.46,16.63,28.9,63.42,26.26,1.45,1.05,19.17,0.8981275784669581
+Z45.2,Encounter for adjustment and management of vascular access device( ICD-10-CM: Z45.2 ),Encounter for adjustment and management of implanted device,4_other,636,61.0,9.59,7.46,2.83,97.17,2.67,0.16,1.78,1.05,70.48,0.853801154332861
+J15.9,Unspecified bacterial pneumonia( ICD-10-CM: J15.9 ),"Bacterial pneumonia, not elsewhere classified",4_other,254,24.0,9.45,7.35,15.75,24.8,63.78,72.83,1.19,1.02,3.0,0.851772667178808
+E05.90,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm( ICD-10-CM: E05.90 )",Thyrotoxicosis,4_other,1262,37.0,2.93,2.28,8.64,98.89,0.95,0.16,4.38,1.1,251.88,0.8089887924508306
+Z78.0,Asymptomatic menopausal state( ICD-10-CM: Z78.0 ),Other specified health status,4_other,4052,81.0,2.0,1.56,8.61,100.0,0.0,0.0,1.11,1.0,24.82,0.759655930659225
+R01.1,"Cardiac murmur, unspecified( ICD-10-CM: R01.1 )",Cardiac murmurs and other cardiac sounds,4_other,1355,30.0,2.21,1.72,10.18,99.63,0.37,0.0,1.17,1.07,15.21,0.7009564528531143
+M54.17,"Radiculopathy, lumbosacral region( ICD-10-CM: M54.17 )",Dorsalgia,4_other,1989,45.0,2.26,1.76,8.5,99.04,0.96,0.35,2.96,1.15,134.12,0.6809149512451892
+E89.0,Postprocedural hypothyroidism( ICD-10-CM: E89.0 ),"Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",4_other,1565,34.0,2.17,1.69,9.52,99.87,0.13,0.13,4.46,1.02,411.92,0.6754397876383763
+Z12.11,Encounter for screening for malignant neoplasm of colon( ICD-10-CM: Z12.11 ),Encounter for screening for malignant neoplasms,4_other,9309,85.0,0.91,0.71,14.17,99.98,0.01,0.01,1.08,1.02,7.88,0.6317109765565634
+E04.2,Nontoxic multinodular goiter( ICD-10-CM: E04.2 ),Other nontoxic goiter,4_other,1312,27.0,2.06,1.6,10.06,99.92,0.08,0.0,2.51,1.08,202.14,0.6297791489759823
+M85.89,"Other specified disorders of bone density and structure, multiple sites( ICD-10-CM: M85.89 )",Other disorders of bone density and structure,4_other,1481,34.0,2.3,1.79,8.37,99.93,0.07,0.0,1.6,1.04,120.65,0.624679148334907
+Z12.4,Encounter for screening for malignant neoplasm of cervix( ICD-10-CM: Z12.4 ),Encounter for screening for malignant neoplasms,4_other,9607,32.0,0.33,0.26,43.33,100.0,0.0,0.0,1.37,1.0,39.78,0.5827091956651398
+E88.810,Metabolic syndrome( ICD-10-CM: E88.810 ),Other and unspecified metabolic disorders,4_other,4644,28.0,0.6,0.47,26.29,98.51,0.0,1.49,8.42,1.0,307.3,0.5642416227035597
+G47.30,"Sleep apnea, unspecified( ICD-10-CM: G47.30 )",Sleep disorders,4_other,2564,30.0,1.17,0.91,11.58,100.0,0.0,0.0,1.29,1.23,10.26,0.46062827078535307
+S00.03XA,"Contusion of scalp, initial encounter( ICD-10-CM: S00.03XA )",Superficial injury of head,4_other,520,39.0,7.5,5.83,11.73,13.08,86.92,2.31,1.02,1.0,4.16,0.3294977638792751
+Z13.6,Encounter for screening for cardiovascular disorders( ICD-10-CM: Z13.6 ),Encounter for screening for other diseases and disorders,4_other,2067,31.0,1.5,1.17,5.71,100.0,0.0,0.0,1.04,1.01,4.27,0.2859504227041152
+Z87.891,Personal history of nicotine dependence( ICD-10-CM: Z87.891 ),Personal history of other diseases and conditions,4_other,3710,90.0,2.43,1.89,2.61,99.78,0.22,0.05,1.6,1.03,242.64,0.2811901180696559
+Z86.0100,"Personal history of colon polyps, unspecified( ICD-10-CM: Z86.0100 )",Personal history of certain other diseases,4_other,3290,39.0,1.19,0.92,4.89,100.0,0.0,0.0,1.04,1.01,4.56,0.21403413388016276
+M47.26,"Other spondylosis with radiculopathy, lumbar region( ICD-10-CM: M47.26 )",Spondylosis,4_other,1105,35.0,3.17,2.46,2.17,98.46,1.18,1.36,1.58,1.02,87.02,0.211828783992142
+Z53.21,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider( ICD-10-CM: Z53.21 ),"Persons encountering health services for specific procedures and treatment, not carried out",4_other,5767,97.0,1.68,1.31,15.19,15.45,84.5,0.16,1.19,1.01,33.57,0.18775700764702705
+Z12.31,Encounter for screening mammogram for malignant neoplasm of breast( ICD-10-CM: Z12.31 ),Encounter for screening for malignant neoplasms,4_other,34325,382.0,1.11,0.87,2.27,100.0,0.0,0.0,1.92,1.0,362.17,0.185837516487783
+Z13.820,Encounter for screening for osteoporosis( ICD-10-CM: Z13.820 ),Encounter for screening for other diseases and disorders,4_other,2503,46.0,1.84,1.43,2.52,100.0,0.0,0.0,1.06,1.0,16.43,0.1713634552475145
+N63.10,"Unspecified lump in the right breast, unspecified quadrant( ICD-10-CM: N63.10 )",Unspecified lump in breast,4_other,2071,27.0,1.3,1.01,3.72,99.61,0.39,0.0,2.18,1.02,42.31,0.1558013299818489
+M51.16,"Intervertebral disc disorders with radiculopathy, lumbar region( ICD-10-CM: M51.16 )","Thoracic, thoracolumbar, and lumbosacral intervertebral disc disorders",4_other,1992,37.0,1.86,1.44,2.36,96.23,3.01,3.16,1.53,1.04,76.89,0.14442528524758183
+N63.20,"Unspecified lump in the left breast, unspecified quadrant( ICD-10-CM: N63.20 )",Unspecified lump in breast,4_other,2233,26.0,1.16,0.91,3.67,99.64,0.36,0.0,2.27,1.03,46.26,0.13882813153916337
+I70.213,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs( ICD-10-CM: I70.213 )",Atherosclerosis,4_other,772,68.0,8.81,6.85,0.26,99.87,0.0,0.13,1.92,1.02,248.83,0.07789530341690631
+M80.08XA,"Age-related osteoporosis with current pathological fracture, vertebra(e), initial encounter for fracture (Multi HCC)( ICD-10-CM: M80.08XA )",Osteoporosis with current pathological fracture,4_other,258,32.0,12.4,9.65,0.39,59.3,34.11,39.15,1.23,1.02,26.49,0.07037114454986985
+F33.2,"Major depressive disorder, recurrent severe without psychotic features (Multi HCC)( ICD-10-CM: F33.2 )","Major depressive disorder, recurrent",4_other,3241,21.0,0.65,0.5,14.69,21.35,13.24,78.62,1.58,1.02,52.96,0.06570815244473864
+K63.5,Polyp of colon( ICD-10-CM: K63.5 ),Other diseases of intestine,4_other,8404,89.0,1.06,0.82,0.62,99.93,0.01,0.07,1.04,1.02,12.25,0.031835561144917375
+Z42.8,Encounter for other plastic and reconstructive surgery following medical procedure or healed injury( ICD-10-CM: Z42.8 ),Encounter for plastic and reconstructive surgery following medical procedure or healed injury,4_other,456,21.0,4.61,3.58,0.0,99.56,0.44,0.0,1.16,1.0,14.86,0.0
+Z51.0,Encounter for antineoplastic radiation therapy( ICD-10-CM: Z51.0 ),Encounter for other aftercare and medical care,4_other,345,30.0,8.7,6.76,0.0,99.71,0.0,0.29,1.79,1.02,24.97,0.0
+Z45.018,Encounter for adjustment and management of other part of cardiac pacemaker( ICD-10-CM: Z45.018 ),Encounter for adjustment and management of implanted device,4_other,306,42.0,13.73,10.68,0.0,100.0,0.0,0.0,1.15,1.0,34.55,0.0

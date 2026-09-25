@@ -1,0 +1,2 @@
+cohort,cutoff_date,patients_total,patients_train,patients_test,train_pct_deceased,test_pct_deceased,roc_auc,average_precision,threshold_0_50_precision,threshold_0_50_recall,threshold_0_50_f1
+edema_R60_0_R60_9,2025-01-01,4289,3216,1073,7.68,7.64,0.9845684329698998,0.8870374647730114,0.5205479452054794,0.926829268292683,0.6666666666666666

@@ -1,0 +1,4 @@
+age_group,patients,high_risk_trajectory_patients,pct_high_risk_trajectory,deceased_patients,pct_deceased
+90_plus,595,118,19.83,136,22.86
+75_to_89,1563,124,7.93,131,8.38
+under_75,2131,58,2.72,62,2.91

@@ -1,0 +1,51 @@
+last_encounter_type,last_department_type,last_diagnosis_group,deceased_patients
+Appointment,HOD,Missing,433
+Patient Outreach,*Unknown,Missing,301
+Lab Requisition,Normal,Missing,122
+Office Visit,*Unknown,Chronic kidney disease,65
+Office Visit,*Unknown,Essential,58
+Office Visit,*Unknown,Atrial fibrillation and flutter,58
+Appointment,*Unknown,Missing,55
+Office Visit,*Unknown,"Encounter for general examination without complaint, suspected or reported diagnosis",53
+Lab Visit,*Unknown,Essential,51
+Hospital Encounter,HOD,Missing,48
+Lab Requisition,Normal,Other disorders of urinary system,46
+Office Visit,*Unknown,Chronic ischemic heart disease,45
+Lab Requisition,Normal,Long term,44
+Lab Requisition,Normal,Essential,40
+Patient Outreach,*Unknown,Essential,36
+Lab Requisition,Normal,Other anemias,33
+Office Visit,*Unknown,Heart failure,30
+Lab Visit,*Unknown,Type 2 diabetes mellitus,27
+Lab Visit,*Unknown,Chronic kidney disease,27
+Imaging,*Unknown,Encounter for screening for malignant neoplasms,25
+Lab Requisition,Normal,Disorders of lipoprotein metabolism and other lipidemias,23
+Office Visit,ED,Missing,21
+Lab Visit,*Unknown,Disorders of lipoprotein metabolism and other lipidemias,21
+Lab Requisition,Normal,Other hypothyroidism,19
+Anti-coag visit,*Unknown,Long term,16
+Lab Visit,*Unknown,Other hypothyroidism,16
+Lab Visit,*Unknown,Heart failure,16
+Lab Requisition,Normal,Type 2 diabetes mellitus,15
+Lab Visit,*Unknown,"Encounter for general examination without complaint, suspected or reported diagnosis",15
+Lab Visit,*Unknown,Long term,15
+Initial consult,*Unknown,Chronic kidney disease,15
+Imaging,*Unknown,"Other joint disorder, not elsewhere classified",15
+Office Visit,*Unknown,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,14
+Lab Requisition,Normal,Pain associated with micturition,14
+Imaging,*Unknown,Abnormalities of breathing,14
+Lab Visit,*Unknown,Other anemias,14
+Procedure visit,*Unknown,Atrial fibrillation and flutter,13
+Anti-coag visit,*Unknown,Atrial fibrillation and flutter,13
+Procedure visit,*Unknown,Presence of cardiac and vascular implants and grafts,13
+Imaging,*Unknown,Fracture of femur,13
+Patient Outreach,*Unknown,Disorders of lipoprotein metabolism and other lipidemias,12
+Office Visit,*Unknown,Alzheimer's disease,11
+Office Visit,*Unknown,Dorsalgia,11
+Lab Visit,*Unknown,Iron deficiency anemia,11
+Office Visit,*Unknown,Other chronic obstructive pulmonary disease,11
+Lab Requisition,Normal,Chronic kidney disease,11
+Hospital Encounter,HOD,Osteoporosis without current pathological fracture,11
+Office Visit,*Unknown,Parkinson's disease,10
+Office Visit,*Unknown,Other peripheral vascular diseases,10
+Office Visit,Normal,Acute upper respiratory infections of multiple and unspecified sites,10

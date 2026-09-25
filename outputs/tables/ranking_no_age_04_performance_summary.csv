@@ -1,0 +1,2 @@
+model,cohort,target,patients_total,positive_total,positive_rate_pct,patients_train,patients_test,test_positive_rate_pct,roc_auc,average_precision,threshold_0_50_precision,threshold_0_50_recall,threshold_0_50_f1,main_metric,notes
+edema_risk_ranking_no_age_random_forest,"all edema patients including 90+, age not used as feature",future high-risk edema trajectory,4289,300,6.99,3216,1073,6.99,0.7164863059452238,0.18349692566657955,0.22807017543859648,0.3466666666666667,0.2751322751322751,top-k precision and lift,"No age_group, PatientBirthYearBin, or birth-related feature used."

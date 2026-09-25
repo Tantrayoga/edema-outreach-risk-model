@@ -1,0 +1,3 @@
+split,patients,deceased_patients,pct_deceased
+train,3216,247,7.68
+test,1073,82,7.64

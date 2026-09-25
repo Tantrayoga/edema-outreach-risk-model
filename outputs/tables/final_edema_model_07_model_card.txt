@@ -1,0 +1,51 @@
+
+FINAL MODEL SUMMARY
+
+Project question:
+Can early encounter patterns among edema patients identify those likely to follow a future high-risk trajectory?
+
+Cohort:
+- Patients with edema diagnoses R60.0 or R60.9.
+- Main model excludes patients aged 90+.
+- Patients aged 90+ are analyzed separately because their risk is strongly age-driven.
+
+Prediction point:
+- 60 days after first edema diagnosis.
+
+Features used:
+- Pre-edema encounter history.
+- First 60-day edema-window encounter history.
+- Diagnosis complexity.
+- Department/provider complexity.
+- ED, hospital, inpatient, outpatient, and observation utilization.
+- Length-of-stay history.
+- First and last early-window encounter context.
+
+Features intentionally excluded:
+- Age / PatientBirthYearBin.
+- MyChartStatus.
+- Race and ethnicity.
+- Marital status.
+- Smoking status.
+- Social determinant screening counts.
+- Future utilization variables.
+
+Target:
+- Future high-risk edema trajectory.
+- Positive if the patient was eventually marked deceased and later had a long/complex future trajectory.
+
+Key evaluation:
+- ROC AUC: 0.7040
+- Average Precision: 0.1460
+- Baseline positive rate in test set: 4.98%
+
+Best metric for outreach:
+- Top-risk capture table.
+- This asks: if SVH contacts the highest-risk 5%, 10%, 20%, or 30% of patients, how many future high-risk cases are captured?
+
+Recommended framing:
+This is not a death-prediction model. It is an outreach-prioritization prototype.
+The goal is to identify edema patients under 90 whose early encounter patterns resemble patients who later developed long, complex, high-risk trajectories.
+
+Clinical/business interpretation:
+Edema can appear as a relatively quiet outpatient signal. By focusing on early utilization patterns rather than age alone, SVH could prioritize follow-up for patients who may be starting to deteriorate before obvious hospital escalation.
